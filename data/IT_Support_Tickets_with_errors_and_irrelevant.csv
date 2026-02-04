@@ -1,0 +1,2501 @@
+ID,Text,Category,Priority
+2448,Cannot access shared folder - in production,Access,Low
+2115,Version mismatch error - urgent fix needed,Software,Medium
+2065,Software installation failed - customer complaint,Software,Low
+3288,Database replication lagging - in production,Database,Critical
+2538,Cannot access shared folder - customer complaint,Access,Low
+1669,Cannot connect to VPN - reported by team,Network,Low
+2584,Email access denied - urgent fix needed,Access,Critical
+3405,Company policy change announcement,Database,Low
+1498,Connection refused error - urgent fix needed,Network,High
+3481,Please sign the NDA document,Access,Medium
+1472,Fan making loud noise - customer complaint,Hardware,High
+1247,Laptop not turning on - customer complaint,Hardware,Critical
+1924,Unable to access company intranet - customer complaint,Network,Medium
+2132,Software license expired - customer complaint,Software,Medium
+1671,WiFi keeps disconnecting - for user,Network,Low
+1917,Network adapter not detected - urgent fix needed,Network,Low
+2415,Application crashes on startup - for user,Software,High
+2607,Cannot login to system - reported by team,Access,Medium
+1403,Battery not charging - in production,Hardware,Medium
+2104,Application crashes on startup - reported by team,Software,High
+3073,Database lock detected - reported by team,Database,Critical
+1720,DNS resolution failing - reported by team,Network,High
+3012,Database connection timeout - in production,Database,Critical
+3437,Lunch menu for next week posted,Database,Low
+1197,Printer not connecting to network - urgent fix needed,Hardware,Low
+1892,Unable to access company intranet - in production,Network,Medium
+2265,Application crashes on startup - urgent fix needed,Software,High
+2035,Application not responding - customer complaint,Software,Critical
+2326,Plugin compatibility issue - in production,Software,Medium
+1510,WiFi keeps disconnecting - reported by team,Network,Medium
+2428,User account locked - in production,Access,Critical
+1195,Printer not connecting to network - customer complaint,Hardware,High
+2180,Software license expired - in production,Software,Critical
+3033,Database lock detected - for user,Database,Medium
+1933,Cannot connect to VPN - for user,Network,High
+2125,Error message on opening file - for user,Software,High
+2823,Cannot login to system - for user,Access,Low
+2367,Application freezing randomly - in production,Software,Medium
+2993,Database connection timeout - for user,Database,Medium
+2259,Application freezing randomly - for user,Software,Medium
+3275,Table corruption detected - reported by team,Database,Medium
+2274,Application freezing randomly - customer complaint,Software,Critical
+2937,Database replication lagging - reported by team,Database,Medium
+2267,Update failed to install - in production,Software,High
+1773,WiFi speed very slow - urgent fix needed,Network,Low
+2609,Access rights need update - reported by team,Access,Medium
+2312,Runtime error in application - customer complaint,Software,Critical
+1135,Screen resolution issue - reported by team,Hardware,Medium
+2856,Database authentication failed - reported by team,Access,Low
+3400,Annual company picnic this Friday,Software,Low
+1421,Battery not charging - reported by team,Hardware,High
+2756,Database authentication failed - in production,Access,High
+1708,WiFi keeps disconnecting - for user,Network,Critical
+1094,Keyboard keys not responding - in production,Hardware,Critical
+1057,Screen resolution issue - urgent fix needed,Hardware,Low
+1219,Fan making loud noise - for user,Hardware,High
+2037,Application crashes on startup - customer complaint,Software,High
+2294,Application not responding - for user,Software,Critical
+2953,Database replication lagging - for user,Database,Medium
+2450,Email access denied - customer complaint,Access,High
+3360,Connection pool exhausted - in production,Database,Medium
+2466,Email access denied - reported by team,Access,High
+1299,Fan making loud noise - customer complaint,Hardware,Critical
+3178,Database connection timeout - in production,Database,Low
+1179,USB port not working - urgent fix needed,Hardware,Medium
+2188,Application freezing randomly - reported by team,Software,High
+2473,Access rights need update - for user,Access,Low
+1189,Laptop not turning on - for user,Hardware,Medium
+1573,WiFi speed very slow - reported by team,Network,Medium
+1434,Fan making loud noise - reported by team,Hardware,Low
+1519,Unable to access company intranet - in production,Network,Critical
+3347,Table corruption detected - for user,Database,Critical
+3272,Database lock detected - reported by team,Database,High
+2085,Update failed to install - customer complaint,Software,Medium
+2289,Application crashes on startup - urgent fix needed,Software,Medium
+2124,Application crashes on startup - urgent fix needed,Software,Medium
+2342,Application freezing randomly - reported by team,Software,Medium
+3257,Connection pool exhausted - reported by team,Database,Medium
+2491,User account locked - customer complaint,Access,High
+1044,Laptop not turning on - in production,Hardware,Low
+2879,Cannot access shared folder - urgent fix needed,Access,Critical
+1451,Printer not connecting to network - reported by team,Hardware,Medium
+3046,Index fragmentation high - reported by team,Database,Critical
+1045,Keyboard keys not responding - for user,Hardware,Low
+2284,Application freezing randomly - urgent fix needed,Software,High
+2968,Database connection timeout - customer complaint,Database,Critical
+3091,Data synchronization error - customer complaint,Database,High
+1255,Mouse cursor jumping randomly - for user,Hardware,Low
+2946,Database replication lagging - urgent fix needed,Database,Medium
+2875,Access rights need update - in production,Access,Low
+2863,User account locked - customer complaint,Access,High
+1565,Connection refused error - reported by team,Network,Low
+1213,Hard drive making strange noise - in production,Hardware,Medium
+1867,Internet connection drops frequently - customer complaint,Network,High
+1743,Packet loss on network - customer complaint,Network,Medium
+2252,Runtime error in application - customer complaint,Software,Critical
+2048,Runtime error in application - customer complaint,Software,Low
+2737,Two-factor authentication not working - customr complaint,Access,Critical
+2018,Application freezing randomly - urgent fix needed,Software,Medium
+1171,Printer not connecting to network - urgent fix needed,Hardware,High
+3097,Table corruption detected - for user,Database,Low
+3488,Quarterly business review meeting,Access,Critical
+3218,Table corruption detected - in production,Database,Medium
+2798,User account locked - customer complaint,Access,Medium
+1545,Unable to access company intranet - urgent fix needed,Network,Critical
+2222,Update failed to install - in production,Software,High
+1464,USB port not working - in production,Hardware,Medium
+1989,Software license expired - for user,Software,Medium
+2322,Runtime error in application - reported by team,Software,Medium
+1603,DNS resolution failing - customer complaint,Network,Low
+2337,Application freezing randomly - for user,Software,Medium
+3340,Index fragmentation high - urgent fix needed,Database,Medium
+2261,Application crashes on startup - urgent fix needed,Software,High
+3115,Data synchronization error - customer complaint,Database,Medium
+1808,Cannot connect to VPN - reported by team,Network,Medium
+1887,Packet loss on network - in production,Network,Medium
+2583,Password reset required - reported by team,Access,Low
+2615,Cannot access shared folder - urgent fix needed,Access,Critical
+2838,Password reset required - reported by team,Access,Critical
+2874,aDtabase authentication failed - in production,Access,Low
+1283,Screen resolution issue - customer complaint,Hardware,Medium
+1211,Mouse cursor jumping randomly - urgent fix needed,Hardware,Medium
+1112,Laptop not turning on - customer complaint,Hardware,Critical
+2921,Query execution failed - customer complaint,Database,Medium
+3166,Database connection timeout - reported by team,Database,High
+1458,Screen resolution issue - reported by team,Hardware,Critical
+1820,DNS resolution failing - customer complaint,Network,High
+3185,Index fragmentation high - customer complaint,Database,High
+2656,Session timeout issue - urgent fix needed,Access,Medium
+1253,Laptop not turning on - customer complaint,Hardware,Medium
+1252,Screen resolution issue - reported by team,Hardware,High
+2540,Permission denied error - for user,Access,Medium
+3130,Database lock detected - urgent fix needed,Database,Critical
+2927,Query execution failed - in production,Database,Critical
+2019,Plugin compatobility issue - in production,Software,Critical
+1423,Mouse cursor jumping randomly - urgent fix needed,Hardware,Low
+2176,Application freezing randomly - urgent fix needed,Software,High
+1621,Internet connection drops frequently - in production,Network,Low
+1174,Monitor display flickering - customer complaint,Hardware,High
+1487,Connection refused error - for user,Network,High
+2986,Index fragmentation high - for user,Database,Critical
+2081,Update failed to install - in production,Software,Low
+2118,Version mismatch error-  for user,Software,High
+2358,Plugin compatibility issue - in production,Software,Medium
+2042,Software license expired - reported by team,Software,High
+2091,Error message on opening file - urgent fix needed,Software,Medium
+2356,Error message on opening file - urgent fix needed,Software,Low
+1212,Keyboard keys not responding - customer complaint,Hardware,Critical
+1614,WiFi speed very slow - for user,Network,Low
+3150,Database connection timeout - urgent fix needed,Database,Low
+1465,Monitor displa yflickering - customer complaint,Hardware,Critical
+2468,Email access denied - urgent fix needed,Access,High
+1555,Connection refused error - customer complaint,Network,High
+1908,Packet loss on network - for user,Network,Critical
+1994,Application not responding - in production,Software,Critical
+2969,Query performance very slow - reported by team,Database,Medium
+2789,Cannot login to system - in production,Access,Critical
+2599,Email access denied - customer complaint,Access,Medium
+1097,Mouse cursor jumping randomly - in production,Hardware,Low
+2965,Database lock detected - urgent fix needed,Database,Low
+2365,Application crashes on startup - reported by team,Software,Low
+2925,Connection pool exhausted - customer complaint,Database,High
+1612,Internet connection drops frequently - reported by team,Network,Critical
+1446,Hard drive making strange noise - reported by team,Hardware,Critical
+1238,Monitor display flickering - in production,Hardware,Critical
+3311,Query execution failed - customer complaint,Database,Critical
+1874,Unable to access company intranet - customer complaint,Network,Medium
+3498,Annual company picnic this Friday,Hardware,Critical
+3055,Database replication lagging - customer complaint,Database,Medium
+2674,Permission denied error - urgent fix needed,Access,Low
+3123,Data synchronization error - urgent fix needed,Database,Critical
+1840,Unable to access company intranet - customer complaint,Network,Medium
+1582,Network timeout errors - reported by team,Network,High
+2282,Application freezing randomly - urgent fix needed,Software,Critical
+1980,Runtime error in application - customer complaint,Software,Low
+1791,DNS resolution failing - urgent fix needed,Network,Medium
+1842,Connection refused error - customer complaint,Network,Low
+1483,Unable to access company intranet - for user,Network,Medium
+2911,Database backup not running - reported by team,Database,Low
+1622,Cannot connect to VPN - in production,Network,Medium
+2503,Password reset required - reported by team,Access,Medium
+1333,Printer not connecting to network - for user,Hardware,Low
+1479,Network adapter not detected - for user,Network,High
+2495,Password reset required - urgent fix needed,Access,Low
+1508,Unable to access company intranet - urgent fix needed,Network,Low
+2451,Password reset required - urgent fix needed,Access,Low
+3424,Company policy change announcement,Access,Critical
+1644,Network adapter not detected - customer complaint,Network,Critical
+1481,Packet loss on network - in production,Network,Critical
+2456,Two-factor authentication not working - reported by team,Access,Medium
+3395,Update your emergency contact information,Software,Medium
+2012,Software installation failed - reported by team,Software,Medium
+1765,Cannot connect to VPN - urgent fix needed,Network,Medium
+2290,Application not responding - in production,Software,Low
+2224,Software license expired - customer complaint,Software,Low
+2334,Update failed to install - in production,Software,Critical
+1618,Connection refused error - reported by team,Network,Medium
+1522,Network timeout errors - urgent fix needed,Network,High
+1583,Network timeout errors - in production,Network,High
+2059,Error message on opening file - in production,Software,Medium
+2407,Application freezing randomly - for user,Software,Critical
+1297,Monitor display flickering - reported by team,Hardware,Medium
+3443,Parking lot full this morning,Network,Medium
+2062,Runtime error in application - in production,Software,Critical
+1858,Network adapter not detected - urgent fix needed,Network,Critical
+2693,User account locked - customer complaint,Access,Medium
+1408,Laptop not turning on - reported by team,Hardware,Medium
+2079,Application crashes on startup - customer complaint,Software,Low
+2084,Runtime error in application - in production,Software,Medium
+1169,Keyboard keys not responding - urgent fix needed,Hardware,Low
+3181,Query execution failed - reported by team,Database,Low
+1240,Screen resolution issue - reported by team,Hardware,High
+3306,Database lock detected - reported by team,Database,Critical
+2998,Index fragmentation high - urgent fix needed,Database,High
+2902,Query performance very slow - urgent fix needed,Database,Low
+2051,Software license expired - in production,Software,Low
+2913,Database lock detected - urgent fix needed,Database,Critical
+2868,Permission denied error - reported by team,Access,High
+3096,Database connection timeout - reported by team,Database,High
+1523,Packet loss on network - urgent fix needed,Network,Low
+2738,Database authentication failed - reported by team,Access,Medium
+3473,Please update your profile picture,Access,Low
+2848,User account locked - customer complaint,Access,Medium
+3369,Table corruption detected - urgent fix needed,Database,Critical
+3250,Query execution failed - for user,Database,Low
+2884,Access rights need update - for user,Access,Low
+2512,Cannot login to system - customer complaint,Access,Low
+2460,Access rights need update - urgent fix needed,Access,Low
+2939,Database backup not running - reported by team,Database,High
+2724,Permission denied error - reported by team,Access,High
+3026,Database lock detected - customer complaint,Database,High
+2608,Password reset required - urgent fix needed,Access,High
+2978,Query performance very slow - in production,Database,Medium
+1509,Packet loss on network - urgent fix needed,Network,High
+1633,Network adapter not detected - in production,Network,High
+1916,DNS resolution failing - reported by team,Network,Medium
+1260,Hard drive making strange noise - urgent fix needed,Hardware,Low
+2396,Plugin compatibility issue - customer complaint,Software,Low
+3296,Query execution failed - for user,Database,High
+3322,Query performance very slow - customer complaint,Database,High
+1803,Packet loss on network - reported by team,Network,Medium
+2936,Database connection timeout - urgent fix needed,Database,Low
+2197,Plugin compatibility issue - in production,Software,Low
+2945,Query performance very slow - urgent fix needed,Database,Low
+1757,Unable to access company intranet - in production,Network,Critical
+1802,WiFi speed very slow - customer complaint,Network,High
+1234,Printer not connecting to network - for user,Hardware,Critical
+2515,Email access denied - reported by team,Access,Critical
+1941,Internet connection drops frequently - for user,Network,Medium
+1999,Plugin compatibility issue - urgent fix needed,Software,Critical
+2103,Application crashes on startup - in production,Software,Critical
+2464,Permission denied error - reported by team,Access,Critical
+2877,Cannot login to system - in production,Access,Low
+2226,Software license expired - for user,Software,High
+1325,Laptop not turning on - reported by team,Hardware,Medium
+2764,Permission denied error - reported by team,Access,High
+2954,Table corruption detected - for user,Database,Critical
+2378,Application not responding - in production,Software,High
+1101,Fan making loud noise - customer complaint,Hardware,Medium
+3482,Employee handbook PDF attached,Database,Low
+2341,Software license expired - for user,Software,High
+1388,Mouse cursor jumping randomly - for user,Hardware,Medium
+2955,Database replication lagging - for user,Database,Medium
+1180,Printer not connecting to network - reported by team,Hardware,Low
+2695,Password reset required - reported by team,Access,High
+2663,Session timeout issue - reported by team,Access,Medium
+2305,Software installation failed - for user,Software,High
+1928,Internet connection drops frequently - urgent fix needed,Network,Low
+2431,User account locked - in production,Access,Low
+3269,Query execution failed - in production,Database,High
+1142,Battery not charging - urgent fix needed,Hardware,Critical
+1369,Printer not connecting to network - urgent fix needed,Hardware,High
+3446,Update your LinkedIn profile,Database,High
+2086,Software installation failed - customer complaint,Software,High
+1368,Mouse cursor jumping randomly - reported by team,Hardware,High
+2675,Access rights need update - for user,Access,High
+2045,Application crashes on startup - in production,Software,Critical
+1319,Battery not charging - in production,Hardware,Medium
+2539,Email access denied - in production,Access,Low
+1248,USB port not working - urgent fix needed,Hardware,Low
+1322,Printer not connecting to network - reported by team,Hardware,Medium
+2834,Cannot access shared folder - reported by tEam,Access,Low
+2840,Database authentication failed - urgent fix needed,Access,High
+2000,Runtime error in application - reported by team,Software,Critical
+1943,DNS resolution failing - urgent fix needed,Network,High
+2773,Cannot login to system - for user,Access,Critical
+1030,Battery not charging - customer complaint,Hardware,Critical
+2300,Application crashes on startup - reported by team,Software,High
+2994,Query performance very slow - customer complaint,Database,Critical
+2915,Database backup not running - in production,Database,Medium
+1696,DNS resolution failing - customer complaint,Network,High
+3471,Employee handbook PDF attached,Network,Medium
+3029,Database backup not running - urgent fix needed,Database,Low
+2601,Access rights need update - urgent fix needed,Access,Medium
+3330,Index fragmentation high - for user,Database,Low
+2232,Version mismatch error - in production,Software,Medium
+3174,Table corruption detected - urgent fix needed,Database,Low
+2916,Database lock detected - urgent fix needed,Database,High
+2730,User account locked - urgent fix needed,Access,Low
+2707,Two-factor authentication not working - urgent fix needed,Access,Medium
+2704,Password reset required - in production,Access,Critical
+1756,Unable to access company intranet - for user,Network,Medium
+2331,Application crashes on startup - for user,Software,Critical
+1354,Mouse cursor jumping randomlY - customer complaint,Hardware,Low
+1209,Laptop not turning on - urgent fix needed,Hardware,Low
+3145,Index fragmentation high - customer complaint,Database,Low
+1904,DNS resolution failing - in production,Network,High
+1953,Application freezing randomly - reported by team,Software,Critical
+2338,Error message on opening file - reported by team,Software,Medium
+2552,Access rights need update - reported by team,Access,High
+2568,Cannot login to system - for user,Access,High
+2944,Query execution failed - urgent fix needed,Database,Medium
+1486,Network adapter not detected - reported by team,Network,Critical
+2630,Permission denied error - customer complaint,Access,Low
+3040,Query performance very slow - for user,Database,Critical
+1200,USB port not working - reported by team,Hardware,Low
+1230,Screen resolution issue - urgent fix needed,Hardware,Critical
+1811,WiFi keeps disconnecting - customer complaint,Network,Medium
+1788,WiFi keeps disconnecting - customer complaint,Network,Critical
+1411,USB port not working - in production,Hardware,Critical
+1630,WiFi keeps disconnecting - urgent fix needed,Network,Medium
+2511,Database authentication failed - for user,Access,Critical
+1663,WiFi speed very slow - for user,Network,High
+3143,Data synchronization error - reported by team,Database,Critical
+2919,Connection pool exhausted - urgent fix needed,Database,High
+3335,Database backup not running - reported by team,Database,High
+2270,Runtime error in application - in production,Software,High
+1070,Battery not charging - for user,Hardware,High
+1444,Mouse cursor jumping randomly - reported by team,Hardware,Medium
+3148,Database connection timeout - urgent fix needed,Database,Low
+3242,Table corruption detected - in production,Database,Medium
+2585,Access rights need update - customer complaint,Access,High
+1232,Mouse cursor jumping randomly - reported by team,Hardware,Critical
+1441,Fan making loud noise - reported by team,Hardware,Low
+2628,Email access denied - in production,Access,Critical
+2323,Application crashes on startup - reported by team,Software,Low
+2279,Software license expired - for user,Software,Critical
+1818,WiFi keeps disconnecting - urgent fix needed,Network,Low
+1600,WiFi keeps disconnecting - for user,Network,Medium
+2057,Software installation failed - reported by team,Software,Medium
+1415,Monitor display flickering - customer complaint,Hardware,Critical
+1680,Network timeout errors - reported by team,Network,Medium
+2519,Two-factor authentication not working - customer complaint,Access,Critical
+2117,Version mismatch error - customer complaint,Software,High
+1280,Monitor display flickering - customer complaint,Hardware,Medium
+2386,Application not responding - in production,Software,Low
+1409,Hard drive making strange noise - in production,Hardware,High
+2092,Software installation failed - reported by team,Software,High
+3283,Data synchronization error - reported by team,Database,Low
+2217,Application crashes on startup - customer complaint,Software,Low
+3079,Database replication lagging - customer complaint,Database,Medium
+1499,Packet loss on network - for user,Network,Critical
+2709,Two-factor authentication not working - urgent fix needed,Access,Critical
+3027,Database connection timeout - urgent fix needed,Database,Medium
+1790,Connection refused error - for user,Network,Low
+2071,Update failed to install - urgent fix needed,Software,Critical
+3266,Database connection timeout - reported by team,Database,High
+1436,Hard drive making strange noise - urgent fix needed,Hardware,Critical
+3044,Database backup not running - urgent fix needed,Database,Medium
+2880,Database authentication failed - for user,Access,Critical
+1783,WiFi keeps disconnecting - urgent fix needed,Network,Low
+2477,Cannot login to system - in production,Access,Medium
+2832,Cannot login to system - customer complaint,Access,Critical
+2837,User account locked - in production,Access,Critical
+1150,Screen resolution issue - for user,Hardware,High
+2195,Application not responding - urgent fix needed,Software,Critical
+3452,Book a meeting room on the calendar,Database,Medium
+2242,Plugin compatibility issue - urgent fix needed,Software,Low
+2056,Update failed to install - for user,Software,Low
+2770,Access rights need update - for user,Access,High
+2690,Session timeout issue - urgent fix needed,Access,Medium
+3094,Data synchronization error - reported by team,Database,Low
+3193,Data synchronization error - customer complaint,Database,High
+2930,Data synchronization error - customer complaint,Database,High
+1164,Screen resolution issue - reported by team,Hardware,High
+1439,USB port not working - for user,Hardware,Medium
+2026,Runtime error in application - in production,Software,Low
+2383,Software installation failed - for user,Software,Critical
+2979,Database connection timeout - customer complaint,Database,High
+1830,Network timeout errors - urgent fix needed,Network,High
+1655,Packet loss on network - customer complaint,Network,High
+1529,DNS resolution failing - for user,Network,Low
+2134,Runtime error in application - urgent fix needed,Software,High
+1050,USB port not working - customer complaint,Hardware,High
+1068,USB port not working - reported by team,Hardware,High
+3017,Database backup not running - customer complaint,Database,Low
+2371,Application not responding - in production,Software,High
+3271,Index fragmentation high - urgent fix needed,Database,Critical
+1049,Mouse cursor jumping randomly - customer complaint,Hardware,High
+2335,Software installation failed - in production,Software,Medium
+2682,Access rights need update - reported by team,Access,High
+1839,Connection refused error - reported by team,Network,Medium
+3163,Query execution failed - customer complaint,Database,High
+1125,Screen resolution issue - reported by team,Hardware,Medium
+1611,WiFi keeps disconnecting - urgent fix needed,Network,Critical
+2861,Database authentication failed - customer complaint,Access,Medium
+3333,Query performance very slow - customer complaint,Database,Medium
+2513,Password reset required - in production,Access,Low
+1742,Network timeout errors - for user,Network,Critical
+1026,Hard dritve making strange noise - customer complaint,Hardware,High
+3389,Submit your expense report by Friday,Software,High
+2753,Session timeout issue - in production,Access,Medium
+2534,Two-factor authentication not working - customer complaint,Access,High
+2816,Database authentication failed - reported by team,Access,Low
+2617,Cannot access shared folder - urgent fix needed,Access,Critical
+2455,Password reset required - reported by team,Access,Low
+1566,WiFi speed very slow - urgent fix needed,Network,Critical
+1846,Network timeout errors - for user,Network,High
+3490,Office temperature is too cold,Access,Low
+2457,Access rights need update - for user,Access,Medium
+1362,Mouse cursor jumping randomly - customer complaint,Hardware,Critical
+2566,Database authentication failed - reported by team,Access,Low
+3499,Employee handbook PDF attached,Software,Medium
+3415,Company policy change announcement,Hardware,Critical
+2835,Database authentication failed - for user,Access,Medium
+2785,Access rights need update - urgent fix needed,Access,Critical
+1431,Screen resolution issue - reported by team,Hardware,High
+3310,Data synchronization error - urgent fix needed,Database,High
+1638,DNS resolution failing - customer complaint,Network,Critical
+3188,Table corruption detected - customer complaint,Database,Critical
+1652,Connection refused error - reported by team,Network,High
+1241,Printer not connecting to network - for user,Hardware,Medium
+1694,Connection refused error - reported by team,Network,Low
+1071,Laptop not turning on - reported by team,Hardware,Medium
+3233,Index fragmentation high - in production,Database,High
+1651,WiFi speed very slow - urgent fix needed,Network,Medium
+3019,Index fragmentation high - customer complaint,Database,Medium
+1074,Monitor display flickering - customer complaint,Hardware,Critical
+2164,Application not responding - customer complaint,Software,Low
+1351,Printer not connecting to network - in production,Hardware,High
+3290,Database lock detected - for user,Database,Medium
+3169,Index fragmentation high - customer complaint,Database,Low
+2099,Application crashes on startup - in production,Software,Critical
+2447,Two-factor authentication not working - urgent fix needed,Access,Medium
+3329,Query execution failed - in production,Database,High
+1077,Hard drive making strange noise - customer complaint,Hardware,Critical
+1433,Printer not connecting to network - customer complaint,Hardware,Medium
+3350,Connection pool exhausted - customer complaint,Database,Medium
+2293,Runtime error in application - urgent fix needed,Software,Medium
+1158,Mouse cursor jumping randomly - customer complaint,Hardware,Critical
+2799,Cannot login to system - urgent fix needed,Access,Medium
+2406,Software installation failed - customer complaint,Software,Medium
+3051,Database lock detected - in production,Database,Medium
+1136,Laptop not turning on - urgent fix needed,Hardware,Medium
+3138,Data synchronization error - customer complaint,Database,High
+2929,Table corruption detected - for user,Database,Critical
+2691,Database authentication failed - urgent fix needed,Access,Low
+1868,Packet loss on network - in production,Network,Critical
+2950,Database lock detected - for user,Database,Critical
+1052,USB port not working - in production,Hardware,High
+2901,Connection pool exhausted - reported by team,Database,High
+1679,DNS resolution failing - urgent fix needed,Network,High
+2504,Email access denied - in production,Access,Critical
+1290,Laptop not turning on - reported by team,Hardware,Critical
+3248,Query execution failed - customer complaint,Database,High
+2421,Plugin compatibility issue - urgent fix needed,Software,Critical
+2603,Access rights need update - urgent fix needed,Access,Medium
+1533,WiFi speed very slow - for user,Network,Critical
+1480,Internet connection drops frequently - urgent fx needed,Network,Medium
+2404,Error message on opening file - for user,Software,Medium
+2933,Data synchronization error - reported by team,Database,High
+1292,Mouse cursor jumping randomly - reported by team,Hardware,Critical
+2722,Email access denied - customer complaint,Access,Medium
+2069,Application freezing randomly - in production,Software,Low
+2024,Plugin compatibility issue - reported by team,Software,High
+3180,Connection pool exhausted - urgent fix needed,Database,High
+3228,Data synchronization error - in production,Database,Low
+1706,WiFi speed very slow - reported by team,Network,Critical
+3035,Database onnection timeout - for user,Database,Medium
+1407,Monitor display flickering - reported by team,Hardware,Medium
+3100,Index fragmentation high - urgent fix needed,Database,Low
+3024,Data synchronization error - reported by team,Database,Critical
+3409,Submit your expense report by Friday,Network,Low
+1979,Error message on opening file - for user,Software,Low
+2746,Two-factor authentication not working - urgent fix needed,Access,Medium
+2881,Password reset required - customer complaint,Access,Critical
+1343,Keyboard keys not responding - customer complaint,Hardware,Low
+2991,Database backup not running - for user,Database,High
+3477,Company policy change announcement,Network,High
+1835,Unable to access company intranet - urgent fix needed,Network,High
+2453,Email access denied - customer complaint,Access,Critical
+1300,Screen resolution issue - for user,Hardware,Low
+2989,Database lock detected - reported by team,Database,Critical
+3294,Database lock detected - in production,Database,Critical
+1496,WiFi speed very slow - in production,Network,Low
+1813,Internet connection drops frequently - customer complaint,Network,Critical
+1930,Network adapter not detected - urgent fix needed,Network,Critical
+2058,Version mismatch error - for user,Software,High
+2638,Access rights need update - in production,Access,Low
+3456,Please approve my vacation request,Hardware,High
+1221,Fan making loud noise - for user,Hardware,Medium
+3487,Please approve my vacation request,Database,Medium
+2660,Cannot login to system - in production,Access,High
+1528,Packet loss on network - customer complaint,Network,Low
+2487,Access rights need update - for user,Access,Medium
+3376,Please sign the NDA document,Network,Medium
+2610,Cannot login to system - for user,Access,High
+1597,Cannot connect to VPN - customer complaint,Network,Critical
+1085,Laptop not turning on - reported by team,Hardware,Critical
+3214,Query execution failed - urgent fix needed,Database,Low
+3056,Database lock detected - urgent fix needed,Database,Critical
+2962,Data synchronization error - customer complaint,Database,Medium
+2865,Session timeout issue - reported by team,Access,Critical
+3327,Query execution failed - for user,Database,Low
+1462,Printer not connecting to network - in production,Hardware,Critical
+1110,Monitor display flickering - customer complaint,Hardware,Medium
+2963,Connection pool exhausted - reported by team,Database,Critical
+1355,Mouse cursor jumping randomly - in production,Hardware,Critical
+1267,Monitor display flickering - urgent fix needed,Hardware,Low
+2546,User account locked - customer complaint,Access,Low
+1531,Internet connection drops frequently - customer complaint,Network,High
+3447,Annual company picnic this Friday,Hardware,Low
+1291,Laptop not turning on - for user,Hardware,High
+1606,WiFi speed very slow - in production,Network,Low
+2561,Email access denied - for user,Access,Medium
+1417,Keyboard keys not responding - in production,Hardware,High
+1473,Battery not charging - reported by team,Hardware,Low
+1932,WiFi speed very slow - in production,Network,High
+3280,Database replication lagging - reported by team,Database,Medium
+3420,Please sign the NDA document,Hardware,High
+1809,Network timeout errors - reported by team,Network,Critical
+1799,DNS resolution failing - urgent fix needed,Network,Low
+3492,New parking passes issued,Software,Low
+1931,Packet loss on network - reported by team,Network,Medium
+1279,Keyboard keys not responding - in production,Hardware,Low
+2518,Password reset required - in production,Access,Medium
+1884,Unable to access company intranet - urgent fix needed,Network,Medium
+2015,Error message on opening file - in production,Software,Medium
+1019,Screen resolution issue - customer complaint,Hardware,Medium
+2235,Application freezing randomly - customer complaint,Software,Low
+3402,Employee handbook PDF attached,Database,Low
+2973,Data synchronization error - urgent fix needed,Database,Critical
+2533,Access rights need update - urgent fix needed,Access,Critical
+2903,Connection pool exhausted - customer complaint,Database,High
+3134,Table corruption detected - customer complaint,Database,Low
+2502,Access rights need update - for user,Access,High
+2565,Access rights need update - for user,Access,High
+1220,Fan making loud noise - urgent fix needed,Hardware,Low
+1619,Network adapter not detected - reported by team,Network,High
+2248,Application not responding - reported by team,Software,Critical
+1304,Screen resolution issue - in production,Hardware,Low
+2739,Password reset required - for user,Access,Medium
+3377,Submit your expense report by Friday,Hardware,Medium
+3009,Database lock detected - reported by team,Database,High
+3065,Data synchronization error - customer complaint,Database,Critical
+2296,Application crashes on startup - urgent fix needed,Software,Medium
+3202,Database lock detected - urgent fix needed,Database,Critical
+1880,WiFi keeps disconnecting - reported by team,Network,High
+3159,Table corruption detected - customer complaint,Database,High
+2006,Runtime error in application - in production,Software,Medium
+2034,Software license expired - in production,Software,Critical
+2506,Email access denied - for user,Access,High
+2054,Software license expired - urgent fix needed,Software,Low
+2870,User account locked - for user,Access,Low
+2101,Software installation failed - for user,Software,Low
+1193,Fan making loud noise - urgent fix needed,Hardware,Medium
+1175,Monitor display flickering - in production,Hardware,High
+1766,DNS resolution failing - reported by team,Network,Critical
+2379,Version mismatch error - reported by team,Software,Critical
+2567,Database authentication failed - customer complaint,Access,Low
+2905,Database replication lagging - customer complaint,Database,Critical
+1701,Packet loss on network - for user,Network,Critical
+1129,Monitor display flickering - for user,Hardware,Critical
+1341,Battery not charging - in production,Hardware,Low
+3128,Database backup not running - customer complaint,Database,Medium
+1648,WiFi keeps disconnecting - urgent fix needed,Network,Medium
+2287,Application freezing randomly - reported by team,Software,Medium
+1308,Keyboard keys not responding - reported by team,Hardware,Low
+1384,Printer not connecting to network - for user,Hardware,Low
+2273,Runtime error in application - customer complaint,Software,Medium
+3315,Database lock detected - for user,Database,Critical
+2264,Application freezing randomly - for user,Software,Critical
+1178,Monitor display flickering - in production,Hardware,Low
+1427,Printer not connecting to network - in production,Hardware,Critical
+1787,Packet loss on network - urgent fix needed,Network,Low
+2747,Cannot access shared folder - urgent fix needed,Access,Medium
+2100,Error message on opening file - customer complaint,Software,Critical
+3390,New gym membership available,Network,Critical
+1185,Keyboard keys not responding - urgent fix needed,Hardware,Medium
+2592,Two-factor authentication not working - urgent fix needed,Access,Critical
+2990,Database backup not running - urgent fix needed,Database,Medium
+3496,Please sign the NDA document,Network,Medium
+3286,Connection pool exhausted - reported by team,Database,Medium
+2304,Error message on opening file - for user,Software,Critical
+1962,Plugin compatibility issue - urgent fix needed,Software,High
+2640,Permission denied error - in production,Access,Medium
+1490,WiFi keeps disconnecting - in production,Network,Critical
+1762,Cannot connect to VPN - reported by team,Network,Medium
+1810,Network adapter not detected - for user,Network,Medium
+3278,Database connection timeout - eeported by team,Database,High
+2430,Password reset required - customer complaint,Access,High
+2658,Cannot login to system - customer complaint,Access,Medium
+2526,Cannot access shared folder - reported by team,Access,High
+3087,Database backup not running - in production,Database,Critical
+1119,Mouse cursor jumping randomly - customer complaint,Hardware,Low
+2554,Two-factor authentication not working - reported by team,Access,Critical
+1282,Printer not connecting to network - reported by team,Hardware,Critical
+3186,Database backup not running - customer complaint,Database,Low
+3465,Inventory audit starting tomorrow,Database,High
+2836,Access rights need update - customer complaint,Access,Medium
+1650,Network timeout errors - reported by team,Network,High
+1728,Connection refused error - reported by team,Network,Critical
+1367,Keyboard keys not responding - in production,Hardware,Critical
+2352,Software installation failed - reported by team,Software,Critical
+1556,Network adapter not detected - for user,Network,High
+2411,Update failed to install - urgent fix needed,Software,High
+3281,Query performance very slow - in production,Database,High
+2914,Query performance very slow - for user,Database,High
+1204,Laptop not turning on - customer complaint,Hardware,Medium
+3114,Query execution failed - reported by team,Database,Medium
+1121,Keyboard keys not responding - reported by team,Hardware,Low
+1284,Printer not connecting to network - for user,Hardware,Low
+1576,Connection refused error - customer complaint,Network,High
+2302,Application freezing randomly - urgent fix needed,Software,Low
+3414,Birthday celebration in the break room,Network,Medium
+1276,USB port not working - in production,Hardware,Medium
+1966,Plugin compatibility issue - urgent fix needed,Software,Low
+2548,Cannot access shared folder - urgent fix needed,Access,Medium
+1361,Hard drive making strange noise - customer complaint,Hardware,High
+2128,Application not responding - reported by team,Software,High
+1768,Network timeout errors - customer complaint,Network,Low
+3004,Database backup not running - reported by team,Database,High
+2727,Two-factor authentication not working - customer complaint,Access,Medium
+2889,Password reset required - urgent fix needed,Access,Low
+1287,Screen resolution issue - customer complaint,Hardware,High
+3103,Query execution failed - customer complaint,Database,High
+2095,Application crashes on startup - customer complaint,Software,Critical
+1889,DNS resolution failing - urgent fix needed,Network,Medium
+1424,Hard drive making strange noise - customer complaint,Hardware,Medium
+2809,Database authentication failed - in production,Access,Low
+3348,Database connection timeout - for user,Database,Low
+2588,User account locked - in production,Access,Critical
+1841,Connection refused error - reported by team,Network,Critical
+1066,Laptop not turning on - for user,Hardware,Medium
+2646,Password reset required - urgent fix needed,Access,Medium
+2711,Database authentication failed - for user,Access,High
+2458,Email access denied - reported by team,Access,Low
+2560,Password reset required - reported by team,Access,High
+1231,Printer not connecting to network - reported by team,Hardware,Critical
+2576,Permission denied error - in production,Access,Medium
+2570,Permission denied error - customer complaint,Access,Low
+2186,Application freezing randomly - foe user,Software,Low
+1890,Network timeout errors - customer complaint,Network,Critical
+2400,Plugin compatibility issue - in production,Software,High
+1730,Unable to access company intranet - urgent fix needed,Network,High
+1737,Network timeout errors - reported by team,Network,Low
+2074,Version mismatch error - customer complaint,Software,Medium
+1375,Battery not charging - customer complaint,Hardware,Critical
+1760,WiFi keeps disconnecting - for user,Network,Medium
+3251,Index fragmentation high - customer complaint,Database,Critical
+2668,Email access denied - urgent fix needed,Access,Critical
+1298,Keyboard keys not responding - in production,Hardware,High
+1599,Cannot connect to VPN - urgent fix needed,Network,Medium
+2972,Table corruption detected - in production,Database,Medium
+1100,Keyboard keys not responding - for user,Hardware,High
+2055,Software installation failed - in production,Software,High
+2780,Email access denied - urgent fix needed,Access,High
+2238,Application crashes on startup - reported by team,Software,Medium
+1530,Cannot connect to VPN - urgent fix needed,Network,Medium
+2934,Query execution failed - urgent fix needed,Database,High
+2613,Cannot access shared folder - reported by team,Access,Medium
+2209,Plugin compatibility issue - customer complaint,Software,Medium
+1637,DNS resolution failing - reported by team,Network,High
+3197,Data synchronization error - for user,Database,Low
+1186,Laptop not turning on - customer complaint,Hardware,Critical
+2997,Query performance very slow - customer complaint,Database,Critical
+1945,Unable to access company intranet - for user,Network,Critical
+2805,Password reset required - customer complaint,Access,Critical
+2657,Email access denied - reported by team,Access,High
+2779,Session timeout issue - reported by team,Access,Critical
+1512,Internet connection drops frequently - for user,Network,High
+1801,Internet connection drops frequently - reported by team,Network,Medium
+2135,Application crashes on startup - customer complaint,Software,High
+2395,Runtime error in application - urgent fix needed,Software,Medium
+3406,Please sign the NDA document,Network,Critical
+1608,DNS resolution failing - for user,Network,Critical
+2208,Version mismatch error - reported by team,Software,Critical
+1152,Printer not connecting to network - for user,Hardware,Critical
+2558,Cannot login to system - in production,Access,High
+1857,Internet connection drops frequently - reported by team,Network,Medium
+2136,Application not responding - customer complaint,Software,Low
+1875,DNS resolution failing - reported by team,Network,Medium
+3276,Database connection timeout - customer complaint,Database,High
+1024,Battery not charging - urgent fix needed,Hardware,Medium
+1159,Screen resolution issue - reported by team,Hardware,Critical
+1332,Monitor display flickering - urgent fix needed,Hardware,Low
+2111,Error message on opening file - in production,Software,Low
+3388,Update your emergency contact information,Access,High
+2718,Database authentication failed - for user,Access,Low
+3366,Database connection timeout - urgent fix needed,Database,Low
+3450,Update your emergency contact information,Software,High
+1643,Internet connection drops frequently - customer complaint,Network,High
+2438,User account locked - urgent fix needed,Access,High
+1312,Laptop not turning on - customer complaint,Hardware,Medium
+1352,Keyboard keys not responding - in production,Hardware,High
+1549,Packet loss on network - reported by team,Network,Critical
+2745,Permission denied error - urgent fix needed,Access,High
+2126,Software license expired - customer complaint,Software,Low
+1307,Battery not charging - for user,Hardware,Critical
+1288,Fan making loud noise - reported by team,Hardware,Low
+1695,Internet connection drops frequently - customer complaint,Network,Critical
+1963,Error message on opening file - urgent fix needed,Software,Medium
+1631,WiFi speed very slow - urgent fix needed,Network,High
+2813,Two-factor authentication not working - in production,Access,Critical
+1950,Network adapter not detected - in production,Network,Medium
+2390,Software installation failed - reported by team,Software,Critical
+1987,Software license expired - reported by team,Software,Low
+1991,Error message on opening file - customer complaint,Software,High
+2591,Password reset required - customer complaint,Access,Critical
+1782,WiFi keeps disconnecting - reported by team,Network,Medium
+2377,Error message on opening file - customer complaint,Software,High
+1837,DNS resolution failing - customer complaint,Network,Low
+2436,Permission denied error - in production,Access,Critical
+3418,Parking lot full this morning,Network,Medium
+1014,Mouse cursor jumping randomly - for user,Hardware,High
+2221,Software installation failed - for user,Software,Medium
+2408,Version mismatch error - reported by team,Software,Medium
+1515,Internet connection drops frequently - customer complaint,Network,Medium
+1410,Mouse cursor jumping randomly - for user,Hardware,Critical
+1862,Internet connection drops frequently - urgent fix needed,Network,High
+1314,Battery not charging - for user,Hardware,High
+2871,Permission denied error - customer complaint,Access,Critical
+2303,Version mismatch error - urgent fix needed,Software,High
+2280,Software installation failed - urgent fix needed,Software,Medium
+3500,Please sign the NDA document,Hardware,High
+3359,Index fragmentation high - customer complaint,Database,High
+1383,Hard drive making strange noise - in production,Hardware,Critical
+2200,Application crashes on startup - in production,Software,Low
+2624,Session timeout issue - customer complaint,Access,High
+2878,Two-factor authentication not working - reported by team,Access,High
+2510,Email access denied - in production,Access,Low
+2002,Software license expired - for user,Software,Critical
+3241,Query execution failed - urgent fix needed,Database,High
+1264,USB port not working - urgent fix needed,Hardware,Medium
+2291,Error message on opening file - for usrr,Software,Critical
+3160,Database connection timeout - urgent fix needed,Database,Low
+2784,Session timeout issue - reported by team,Access,Low
+1416,Laptop not turning on - for user,Hardware,High
+2114,Application crashes on startup - customer complaint,Software,Medium
+1359,Monitor display flickering - reported by team,Hardware,Low
+2174,Software license expired - customer complaint,Software,High
+1009,Printer not connecting to network - for user,Hardware,Critical
+3021,Database lock detected - urgent fix needed,Database,High
+1317,Battery not charging - reported by team,Hardware,Critical
+1305,Monitor display flickering - urgent fix needed,Hardware,High
+1428,Keyboard keys not responding - urgent fix needed,Hardware,Low
+1106,Mouse cursor jumping randomly - in production,Hardware,Low
+3045,Query performance very slow - in production,Database,High
+1122,Screen resolution issue - reported by team,Hardware,High
+1822,Cannot connect to VPN - in production,Network,Low
+2553,Permission denied error - urgent fix needed,Access,Medium
+3291,Database connection timeout - for user,Database,Critical
+2399,Error message on opening file - urgent fix needed,Software,Critical
+2776,Permission denied error - in production,Access,Critical
+3300,Data synchronization error - in production,Database,Low
+1116,Fan making loud noise - customer complaint,Hardware,Critical
+2514,Password reset required - customer complaint,Access,Medium
+1745,WiFi keeps disconnecting - reported by team,Network,Low
+2559,Access rights need update - reported by team,Access,Low
+3334,Database connection timeout - for user,Database,Medium
+1912,WiFi keeps disconnecting - reported by team,Network,Low
+2489,Password reset required - in production,Access,Critical
+1673,Internet connection drops frequently - for user,Network,Critical
+3307,Database connection timeout - urgent fix needed,Database,Medium
+3052,Query performance very slow - reported by team,Database,Medium
+2641,Access rights need update - cusotmer complaint,Access,High
+1310,Monitor display flickering - in production,Hardware,Critical
+1592,Packet loss on network - urgent fix needed,Network,Medium
+1463,Mouse cursor jumping randomly - for user,Hardware,High
+2988,Database lock detected - in production,Database,Low
+1942,Network timeout errors - urgent fix needed,Network,Critical
+2648,Email access denied - for user,Access,Medium
+3367,Database connection timeout - in production,Database,High
+1553,WiFi keeps disconnecting - customer complaint,Network,Medium
+1088,USB port not working - reported by team,Hardware,High
+1691,Connection refused error - urgent fix needed,Network,Medium
+2692,User account locked - customer complaint,Access,Low
+3413,Annual company picnic this Friday,Access,Medium
+2616,Database authentication failed - urgent fix needed,Access,Medium
+2162,Plugin compatibility issue - in production,Software,Low
+3421,New gym membership available,Hardware,Medium
+2414,Runtime error in application - in production,Software,Critical
+3220,Database backup not running - in production,Database,Medium
+1544,Network adapter not detected - reported by team,Network,Medium
+2761,Permission denied error - for user,Access,Low
+3217,Index fragmentation high - for user,Database,Medium
+1495,Packet loss on network - in production,Network,Critical
+1366,Monitor display flickering - in production,Hardware,High
+3259,Index fragmentation high - customer complaint,Database,Low
+2551,Access rights need update - in production,Access,Medium
+1274,Hard drive making strange noise - customer complaint,Hardware,Medium
+1789,DNS resolution failing - reported by team,Network,Critical
+1072,Hard drive making strange noise - customer complaint,Hardware,Critical
+2243,Version mismatch error -reported by team,Software,Critical
+2812,Email access denied - cusyomer complaint,Access,Low
+1064,Screen eesolution issue - urgent fix needed,Hardware,Critical
+1395,Hard drive making strange noise - reported by team,Hardware,Critical
+2205,Application crashes on startup - in production,Software,High
+1344,Printer not connecting to network - in production,Hardware,High
+2375,Runtime error in application - customer complaint,Software,Critical
+2381,Update failed to install - reported by team,Software,Critical
+1501,WiFi speed very slow - for user,Network,Critical
+2673,Database authentication failed - for user,Access,High
+1678,Packet loss on network - urgent fix needed,Network,High
+2028,Software license expired - reported by team,Software,Medium
+2887,Cannot access shared folder - customer complaint,Access,Medium
+3466,Meeting scheduled for 3 PM tomorrow,Network,Critical
+1273,Mouse cursor jumping randomly - customer complaint,Hardware,Medium
+3474,Company newsletter for December released,Database,Low
+1206,Screen resolution issue - for user,Hardware,Medium
+1734,Network timeout errors - customer complaint,Network,Critical
+1153,USB port not working - customer complaint,Hardware,Medium
+3371,Table corruption detected - customer complaint,Database,Medium
+1558,Unable to access company intranet - reported by team,Network,Critical
+1378,Keyboard keys not responding - customer complaint,Hardware,Medium
+1536,WiFi keeps disconnecting - for user,Network,Critical
+1974,Application not responding - urgent fix needed,Software,Critical
+2001,Application not responding - for user,Software,High
+2873,Cannot login to system - urgent fix needed,Access,Medium
+1199,Printer not connecting to network - reported by team,Hardware,Medium
+1562,Packet loss on network - reported by team,Network,Critical
+1686,Cannot connect to VPN - urgent fix needed,Network,Medium
+2214,Software license expired - reported by team,Software,Low
+1591,Cannot connect to VPN - for user,Network,Low
+1520,DNS resolution failing - in production,Network,Medium
+1309,Printer not connecting to network - urgent fix needed,Hardware,Medium
+1605,Internet connection drops frequently - customer complaint,Network,Medium
+3155,Query execution failed - in production,Database,High
+3260,Query performance very slow - in production,Database,Low
+1060,Fan making loud noise - urgent fix needed,Hardware,Low
+1584,Cannot connect to VPN - for user,Network,Medium
+1860,Connection refused error - reported by team,Network,Critical
+1208,Printer not connecting to network - in production,Hardware,Critical
+3018,Connection pool exhausted - for user,Database,Low
+1870,Unable to access company intranet - reported by team,Network,High
+1786,Packet loss on network - customer complaint,Network,Critical
+1907,Packet loss on network - reported by team,Network,Medium
+3428,Inventory audit starting tomorrow,Database,Critical
+1793,WiFi speed very slow - customer complaint,Network,Medium
+1832,Connection refused error - urgent fix needed,Network,Critical
+1163,Monitor display flickering - urgent fix needed,Hardware,High
+2308,Runtime error in application - customer complaint,Software,Medium
+1527,Internet connection drops frequently - reported by team,Network,High
+2577,Two-factor authentication not working - customer complaint,Access,High
+1257,Battery not charging - reported by team,Hardware,Medium
+1507,Internet connection drops frequently - customer complaint,Network,Medium
+2957,Query performance very slow - urgent fix needed,Database,Medium
+3121,Database backup not running - in production,Database,High
+3229,Database lock detected - urgent fix needed,Database,High
+3165,Database lock detected - in production,Database,Low
+1863,Packet loss on network - customer complaint,Network,High
+2676,Database authentication failed - for user,Access,Critical
+1021,USB port not working - urgent fix needed,Hardware,Low
+2405,Plugin compatibility issue - urgent fix needed,Software,High
+1440,Keyboard keys not responding - for user,Hardware,Medium
+2088,Error message on opening file - urgent fix needed,Software,High
+1382,Mouse cursor jumping randomly - for user,Hardware,Low
+3109,Index fragmentation high - reported by team,Database,Critical
+2262,Runtime error in application - reported by team,Software,High
+1539,WiFi keeps disconnecting - in production,Network,Low
+1882,Network timeout errors - urgent fix needed,Network,High
+1903,Internet ocnnection drops frequently - in production,Network,High
+1084,USB port not working - urgent fix needed,Hardware,Low
+3104,Query execution failed - in production,Database,Critical
+2201,Software license expired - urgent fix needed,Software,High
+2310,Version mismatch error - urgent fix needed,Software,Medium
+2227,Software license expired - reported by team,Software,Critical
+3131,Database backup not running - urgent fix needed,Database,Low
+2750,Permission denied error - in production,Access,Medium
+1271,Mouse cursor jumping randomly - reported by team,Hardware,Critical
+2272,Runtime error in application - urgent fix needed,Software,High
+2260,Version mismatch error - reported by team,Software,Low
+3061,Database lock detected - in production,Database,High
+3264,Database lock detected - reported by team,Database,High
+2600,Cannot login to system - in production,Access,Low
+2961,Connection pool exhausted - urgent fix needed,Database,Critical
+2030,Runtime error in application - urgent fix needed,Software,Medium
+1430,Printer not connecting to network - urgent fix needed,Hardware,High
+3005,Index fragmentation high - urgent fix needed,Database,Critical
+3194,Database replication lagging - in production,Database,Low
+3205,Index fragmentation high - urgent fix needed,Database,High
+1459,Hard drive making strange noise - in production,Hardware,Low
+1079,Laptop not turning on - for user,Hardware,Critical
+3430,Please update your profile picture,Hardware,Low
+3133,Data synchronization error - customer complaint,Database,Medium
+1033,Fan making loud noise - customer complaint,Hardware,High
+3125,Query performance very slow - customer complaint,Database,Medium
+2350,Application freezing randomly - urgent fix needed,Software,Critical
+3244,Table corruption detected - customer complaint,Database,Critical
+1381,Printer not connecting to network - customer complaint,Hardware,Medium
+1227,Laptop not turning on - customer complaint,Hardware,Medium
+2995,Database backup not running - for user,Database,High
+2193,Application not responding - urgent fix needed,Software,Medium
+1716,Internet connection drops frequently - urgent fix needed,Network,Medium
+2763,Session timeout issue - for user,Access,Low
+1687,Network timeout errors - customer complaint,Network,Medium
+3132,Table corruption detected - urgent fix needed,Database,High
+3485,Update your LinkedIn profile,Database,High
+1306,Hard drive making strange noise - reported by team,Hardware,High
+1210,USB port not working - for user,Hardware,Low
+3154,Database lock detected - customer complaint,Database,High
+2671,Database authentication failed - in production,Access,High
+3478,Parking lot full this morning,Access,Critical
+2072,Software license expired - for user,Software,Low
+2935,Database connection timeout - for user,Database,High
+2138,Software installation failed - for user,Software,Medium
+3008,Database replication lagging - in production,Database,High
+1938,Internet connection drops frequently - reported by team,Network,High
+1192,Fan making loud noise - in production,Hardware,Critical
+2212,Runtime error in application - in production,Software,Critical
+2076,Software license expired - customer complaint,Software,High
+3457,Birthday celebration in the break room,Hardware,Critical
+1484,WiFi keeps disconnecting - urgent fix needed,Network,High
+3384,Company policy change announcement,Access,Critical
+2605,Session timeout issue - customer complaint,Access,High
+1278,Mouse cursor jumping randomly - for user,Hardware,High
+2509,Access rights need update - for user,Access,Low
+1222,Printer not connecting to network - reported by team,Hardware,Critical
+2230,Software installation failed - urgent fix needed,Software,Medium
+1572,Internet connection drops frequently - reported by team,Network,Critical
+1412,Screen resolution issue - reported by team,Hardware,High
+2314,Plugin compatibility issue - for user,Software,Low
+2678,Database authentication failed - customer complaint,Access,High
+3179,Query performance very slow - customer complaint,Database,High
+1586,Unable to access company intranet - customer complaint,Network,High
+2731,Cannot login to system - urgent fix needed,Access,Low
+3020,Database lock detected - for user,Database,Critical
+3494,Annual company picnic this Friday,Network,Low
+2564,Database authentication failed - customer complaint,Access,Low
+1675,WiFi keeps disconnecting - in production,Network,Low
+2178,Application crashes on startup - urgent fix needed,Software,High
+1856,Internet connection drops frequently - reported by team,Network,Critical
+1448,Fan making loud noise - reported by team,Hardware,Low
+2906,Connection pool exhausted - in production,Database,High
+2531,Session timeout issue - reported by team,Access,High
+1223,Printer not connecting to network - customer complaint,Hardware,High
+2725,Cannot login to system - in production,Access,High
+3226,Table corruption detected - urgent fix needed,Database,High
+2629,Access rights need update - in production,Access,Low
+2557,Two-factor authentication not working - for user,Access,Medium
+1970,Software license expired - for user,Software,High
+1046,Screen resolution issue - in production,Hardware,Low
+3190,Table corruption detected - for user,Database,Critical
+3365,Database connection timeout - reported by team,Database,High
+1295,Keyboard keys not responding - in production,Hardware,High
+2160,Plugin compatibility issue - in production,Software,Critical
+1589,Internet connection drops frequently - reported by team,Network,Critical
+3054,Database replication lagging - reported by team,Database,High
+1258,Monitor display flickering - in production,Hardware,High
+3064,Connection pool exhausted - reported by team,Database,Critical
+3467,New gym membership available,Network,High
+1927,WiFi keeps disconnecting - customer complaint,Network,Critical
+3119,Database lock detected - customer complaint,Database,Critical
+3298,Database lock detected - for user,Database,High
+1437,Laptop not turning on - reported by team,Hardware,Medium
+1977,Error message on opening file - reported by team,Software,Low
+3037,Query execution failed - in production,Database,Critical
+1394,Laptop not turning on - for user,Hardware,Low
+1426,Screen resolution issue - for user,Hardware,High
+1535,Packet loss on network - customer complaint,Network,High
+1031,Monitor display flickering - customer complaint,Hardware,Critical
+2643,Permission denied error - in production,Access,Medium
+3082,Data synchronization error - reported by team,Database,High
+2147,Application crashes on startup - reported by team,Software,Critical
+1747,Network adapter not detected - for user,Network,Medium
+2751,Two-factor authentication not working - urgent fix needed,Access,Low
+2985,Connection pool exhausted - urgent fix needed,Database,High
+2269,Application freezing randomly - urgent fix needed,Software,Critical
+3343,Connection pool exhausted - for user,Database,Low
+2719,Email access denied - urgent fix needed,Access,Low
+3213,Data synchronization error - in production,Database,Medium
+2413,Application freezing randomly - for user,Software,Low
+2712,Password reset required - urgent fix needed,Access,High
+3013,Table corruption detected - in production,Database,Critical
+1345,Screen resolution issue - urgent fix needed,Hardware,Low
+1557,Connection refused error - reported by team,Network,Medium
+2424,Version mismatch error - for user,Software,Low
+2038,Update failed to install - reported by team,Software,Low
+1681,WiFi speed very slow - for user,Network,High
+3230,Index fragmentation high - in production,Database,High
+2107,Runtime error in application - for user,Software,Critical
+1571,Internet connection drops frequently - reported by team,Network,Medium
+1353,Keyboard keys not responding - reported by team,Hardware,Critical
+1092,Printer not connecting to network - customer complaint,Hardware,Critical
+2211,Application freezing randomly - urgent fix needed,Software,Medium
+3107,Index fragmentation high - urgent fix needed,Database,Critical
+2271,Software license expired - in production,Software,Critical
+3277,Data synchronization error - customer complaint,Database,Medium
+1262,USB port not working - customer complaint,Hardware,Low
+2463,Access rights need update - reported by team,Access,Low
+1749,Packet loss on network - in production,Network,Critical
+2412,Runtime error in application - in production,Software,Low
+2766,Cannot login to system - in production,Access,Critical
+3438,Annual company picnic this Friday,Hardware,High
+2384,Error message on opening file - urgent fix needed,Software,Medium
+2005,Plugin compatibility issue - urgent fix needed,Software,High
+1568,Network timeout errors - urgent fix needed,Network,Critical
+1323,Mouse cursor jumping randomly - in production,Hardware,Critical
+2894,Access rights need update - urgent fix needed,Access,Critical
+3084,Database backup not running - in production,Database,Medium
+1349,Laptop not turning on - for user,Hardware,Low
+2090,Update failed to install - urgent fix needed,Software,Low
+2851,User account locked - customer complaint,Access,Medium
+1301,USB port not working - reported by team,Hardware,Medium
+2659,Password reset required - urgent fix needed,Access,Medium
+2317,Runtime error in application - reported by team,Software,High
+3015,Query performnace very slow - for user,Database,Critical
+2011,Application freezing randomly - for user,Software,High
+1965,Plugin compatibility issue - reported by team,Software,Low
+3370,Connection pool exhausted - urgent fix needed,Database,Critical
+3356,Database connection timeout - customer complaint,Database,High
+2129,Plugin compatibility issue - for user,Software,Low
+1316,Battery not charging - customer complaint,Hardware,Critical
+3070,Database replication lagging - in production,Database,Critical
+1454,Monitor display flickering - urgent fix needed,Hardware,Low
+1914,WiFi speed very slow - for user,Network,Critical
+1602,DNS resolution failing - for user,Network,Critical
+1176,Laptop not turning on - reported by team,Hardware,Critical
+1901,Packet loss on network - urgent fix needed,Network,Low
+3273,Query execution failed - reported by team,Database,Critical
+2299,Plugin compatibility issue - customer complaint,Software,Low
+1038,Laptop not turning on - in production,Hardware,Low
+1975,Runtime error in application - customer complaint,Software,Medium
+1124,Hard drive making strange noise - reported by team,Hardware,High
+2742,Password reset required - customer complaint,Access,High
+3419,Update your LinkedIn profile,Database,High
+1040,USB port not working - for user,Hardware,Critical
+3417,Coffee machine is broken again,Access,Low
+3010,Database backup not running - urgent fix needed,Database,Medium
+2772,User account locked - reported by team,Access,Critical
+2966,Query performance very slow - customer complaint,Database,Critical
+2499,Cannot access shared folder - in production,Access,Critical
+1635,Connection refused error - customer complaint,Network,High
+2967,Table corruption detected - for user,Database,Critical
+1580,Internet connection drops frequently - in production,Network,Low
+2536,Access rights need update - for user,Access,Medium
+1893,Connection refused error - for user,Network,Critical
+1781,Network timeout errors - customer complaint,Network,Low
+1160,Printer not connecting to network - urgent fix needed,Hardware,Low
+2653,Two-factor authentication not working - for user,Access,Medium
+2152,Error message on opening file - in production,Software,High
+1062,Hard drive making strange noise - in production,Hardware,Low
+1850,Network timeout errors - reported by team,Network,Critical
+2545,Cannot access shared folder - customer complaint,Access,Critical
+3411,Urgent: Update your antivirus software,Software,Medium
+2044,Version mismatch error - for user,Software,Critical
+3204,Database backup not running - for user,Database,Critical
+3167,Database connection timeout - reported by team,Database,Critical
+1054,Screen resolution issue - customer complaint,Hardware,Medium
+2547,Database authentication failed - customer complaint,Access,Medium
+1506,Connection refused error - urgent fix needed,Network,Low
+1753,WiFi speed very slow - customer complaint,Network,High
+2380,Application freezing randomly - customer complaint,Software,Medium
+2422,Application freezing randomly - in production,Software,Low
+2392,Application crashes on startup - customer complaint,Software,Critical
+3375,Query performance very slow - for user,Database,Medium
+3284,Query performance very slow - for user,Database,Critical
+1772,Network timeout errors - customer complaint,Network,Low
+3339,Query performance very slow - reported by team,Database,High
+3235,Connection pool exhausted - in production,Database,Critical
+2194,Application crashes on startup - in production,Software,High
+2190,Plugin compatibility issue - customer complaint,Software,Medium
+2899,Session timeout issue - customer complaint,Access,Medium
+2819,Two-factror authentication not working - reported by team,Access,Low
+2866,Two-factor authentication not working - customer complaint,Access,Medium
+2191,Version mismatch error - urgent fix needed,Software,Low
+1964,Software installation failed - reported by team,Software,Critical
+2667,Session timeout issue - urgent fix needed,Access,Critical
+1399,Hard drive making strange noise - urgent fix needed,Hardware,High
+1585,Packet loss on network - urgent fix needed,Network,Low
+1949,Cannot connect to VPN - customer complaint,Network,High
+1705,Unable to access company intranet - for user,Network,Medium
+1432,USB port not working - urgent fix needed,Hardware,Critical
+1293,USB port not working - reported by team,Hardware,Low
+2852,Password reset required - in production,Access,Medium
+2445,Cannot access shared folder - in production,Access,Low
+2602,Cannot access shared folder - customer complaint,Access,Medium
+1003,USB port not working - reported by team,Hardware,High
+1577,Internet connection drops frequently - in production,Network,High
+2791,Access rights need update - reported by team,Access,High
+1340,Battery not charging - urgent fix needed,Hardware,Critical
+2106,Application not responding - in production,Software,Medium
+1926,DNS resolution failing - urgent fix needed,Network,Critical
+1266,Monitor display flickering - in production,Hardware,High
+1377,Screen resolution issue - for user,Hardware,Medium
+1272,Laptop not turning on - reported by team,Hardware,Low
+1697,DNS resolution failing - reported by team,Network,Low
+2619,Cannot login to system - customer complaint,Access,High
+1245,Laptop not turning on - customer complaint,Hardware,Low
+2652,Cannot access shared folder - for user,Access,High
+1477,Cannot connect to VPN - customer complaint,Network,Critical
+2179,Software installation failed - customer complaint,Software,High
+2196,Update failed to install - reported by team,Software,Critical
+2286,Application crashes on startup - reported by team,Software,Low
+2166,Error message on opening file - urgent fix needed,Software,Medium
+3253,Database lock detected - in production,Database,Low
+1251,Printer not connecting to network - customer complaint,Hardware,Low
+1414,USB port not working - urgent fix needed,Hardware,Critical
+3412,Submit your performance review,Hardware,Critical
+3081,Connection pool exhausted - in production,Database,Medium
+1311,Hard drive making strange noise - customer complaint,Hardware,Low
+1894,WiFi keeps disconnecting - reported by team,Network,Low
+3423,Company policy change announcement,Access,Medium
+1016,Printer not connecting to network - for user,Hardware,High
+1722,WiFi keeps disconnecting - in production,Network,Low
+3191,Data synchronization error - reported by team,Database,Medium
+1982,Update failed to install - reported by team,Software,Low
+3105,Index fragmentation high - urgent fix needed,Database,High
+2974,Database connection timeout - customer complaint,Database,High
+1364,Printer not connecting to network - customer complaint,Hardware,High
+2620,Email access denied - customer complaint,Access,Low
+1183,Mouse cursor jumpig randomly - reported by team,Hardware,Low
+1986,Runtime error in application - for user,Software,Low
+2388,Software installation failed - in production,Software,Critical
+3120,Table corruption detected - for user,Database,Low
+3076,Data synchronization error - in production,Database,Critical
+1188,Fan making loud noise - in production,Hardware,Low
+1620,WiFi speed very slow - reported by team,Network,High
+2122,Application freezing randomly - in production,Software,High
+1615,WiFi keeps disconnecting - customer complaint,Network,Medium
+3196,Query execution failed - urgent fix needed,Database,Critical
+1995,Error message on opening file - for user,Software,Critical
+3034,Data synchronization error - for user,Database,Medium
+1372,Monitor display flickering - for user,Hardware,Low
+2339,Plugin compatibility issue - urgent fix needed,Software,Critical
+1594,WiFi keeps disconnecting - for user,Network,Low
+1727,Network timeout errors - in production,Network,Critical
+2843,Permission denied error - urgent fix needed,Access,Critical
+1688,Packet loss on network - in production,Network,High
+2661,Session timeout issue - urgent fix needed,Access,Medium
+1137,Hard drive making strange noise - in production,Hardware,Critical
+1629,Network adapter not detected - in production,Network,High
+1335,Battery not charging - in production,Hardware,Medium
+2481,Email access denied - urgent fix needed,Access,Medium
+3237,Database connection timeout - urgent fix needed,Database,Critical
+2110,Version mismatch error - for user,Software,High
+2361,Application crashes on startup - in production,Software,Critical
+2787,Permission denied error - customer complaint,Access,High
+1711,WiFi speed very slow - customer complaint,Network,Medium
+2040,Runtime error in application - for user,Software,Low
+2309,Software license expired - urgent fix needed,Software,Low
+2775,Permission denied error - reported by team,Access,Critical
+3299,Table corruption detected - in production,Database,Critical
+2113,Software installation failed - customer complaint,Software,Low
+1466,Laptop not turning on - reported by team,Hardware,Critical
+2360,Runtime error in application - customer complaint,Software,High
+3472,New parking passes issued,Access,Critical
+3146,Index fragmentation high - customer complaint,Database,Medium
+2105,Application freezing randomly - customer complaint,Software,Low
+2387,Application crashes on stsrtup - in production,Software,High
+3000,Index fragmentation high - urgent fix needed,Database,Critical
+2452,User account locked - in production,Access,Critical
+3092,Index fragmentation high - urgent fix needed,Database,Medium
+2860,Database authentication failed - urgent fix needed,Access,Medium
+2171,Software license expired - customer complaint,Software,Medium
+3099,Database connection timeout - urgent fix needed,Database,Medium
+1817,Unable to access company intranet - reported by team,Network,Critical
+2068,Update failed to install - for user,Software,Medium
+1275,Keyboard keys not responding - for user,Hardware,High
+2702,Session timeout issue - reported by team,Access,Low
+1866,Packet loss on network - for user,Network,High
+1102,Monitor display flickering - reported by team,Hardware,Medium
+2614,User account locked - reported by team,Access,High
+1108,Keyboard keys not responding - customer complaint,Hardware,High
+3489,Employee handbook PDF attached,Hardware,Critical
+2484,User account locked - for uSer,Access,Low
+2362,Update failed to install - customer complaint,Software,Medium
+2223,Software installation failed - in production,Software,Medium
+2369,Application crashes on startup - reported by team,Software,Medium
+3173,Index fragmentation high - urgent fix needed,Database,Medium
+3373,Database replication lagging - reported by team,Database,Critical
+2500,Password reset required - in production,Access,Low
+1713,WiFi speed very slow - reported by team,Network,Low
+1073,Laptop not turning on - for user,Hardware,High
+2801,User account locked - for user,Access,Low
+3404,Lunch menu for next week posted,Hardware,Medium
+1482,Unable to access company intranet - for user,Network,High
+2666,Email access denied - reported by team,Access,High
+2420,Runtime error in application - customer complaint,Software,Low
+2172,Application freezing randomly - in production,Software,High
+3023,Database lock detected - for user,Database,High
+2442,Password reset required - urgent fix needed,Access,Critical
+1406,Laptop not turning on - in production,Hardware,High
+1758,Connection refused error - in production,Network,Medium
+2363,Error message on opening file - in production,Software,Low
+2621,Permission denied error - customer complaint,Access,Critical
+2612,Cannot login to system - customer complaint,Access,Critical
+3221,Database backup not running - reported by team,Database,Critical
+1744,Connection refused error - customer complaint,Network,Medium
+1807,WiFi speed very slow - in production,Network,Medium
+3309,Data synchronization error - urgent fix needed,Database,Low
+2318,Error message on opening file - in production,Software,Low
+2897,Cannot login to system - customer complaint,Access,Low
+2507,Session timeout issue - in production,Access,Medium
+1149,Printer not connecting to network - for user,Hardware,Medium
+3112,Connection pool exhausted - for user,Database,Critical
+2437,Access rights need update - for user,Access,Critical
+1693,WiFi speed very slow - reported by team,Network,Critical
+1819,Network timeout errors - reported by team,Network,Low
+2757,Cannot login to system - for user,Access,Critical
+2654,Access rights need update - in production,Access,Low
+2715,Email access denied - in production,Access,Low
+1702,Packet loss on network - for user,Network,Medium
+3212,Database connection timeout - customer complaint,Database,Low
+1922,Network timeout errors - urgent fix needed,Network,Medium
+1906,WiFi keeps disconnecting - customer complaint,Network,High
+1455,Fan making loud noise - customer complaint,Hardware,High
+3394,Please approve my vacation request,Network,Critical
+2794,Database authentication failed - for user,Access,Medium
+2229,Software license expired - reported by team,Software,Low
+1168,Mouse cursor jumping randomly - urgent fix needed,Hardware,Medium
+1731,WiFi keeps disconnecting - urgent fix needed,Network,High
+2579,Two-factor autehntication not working - reported by team,Access,High
+1027,Monitor display flickering - reported by team,Hardware,Critical
+2345,Application crashes on startup - in production,Software,High
+2524,Cannot login to system - customer complaint,Access,Critical
+1998,Update failed to install - customer complaint,Software,High
+2177,Version mismatch error - urgent fix needed,Software,High
+2041,Error message on opening file - for user,Software,Critical
+2622,Session timeout issue - reported by team,Access,Critical
+2256,Update failed to install - reported by team,Software,High
+2888,Database authentication failed - for user,Access,Critical
+1042,USB port not working - customer complaint,Hardware,High
+2245,Software installation failed - reported by team,Software,High
+2627,Cannot login to system - customer complaint,Access,Critical
+3195,Data synchronization error - for user,Database,High
+2376,Application freezing randomly - in production,Software,Critical
+2923,Data synchronization error - urgent fix needed,Database,High
+1610,WiFi keeps disconnecting - for user,Network,Critical
+2133,Error message on opening file - reported by team,Software,Low
+3003,Database replication lagging - reported by team,Database,Critical
+1442,Fan making loud noise - for user,Hardware,Medium
+2353,Software installation failed - reported by team,Software,High
+2943,Database lock detected - reported by team,Database,Low
+1494,Network adapter not detected - for user,Network,Medium
+2976,Index fragmentation high - urgent fix needed,Database,Medium
+1237,Keyboard keys not responding - customer complaint,Hardware,Medium
+1552,WiFi keeps disconnecting - customer complaint,Network,High
+1521,WiFi speed very slow - for user,Network,High
+3297,Query execution failed - reported by team,Database,Low
+2233,Version mismatch error - customer complaint,Software,High
+2139,Application freezing randomly - in production,Software,Medium
+1721,Cannot connect to VPN - reported by team,Network,Medium
+2908,Index fragmentation high - urgent fix needed,Database,Medium
+3209,Database lock detected - in production,Database,Critical
+1059,Fan making loud noise - in production,Hardware,Medium
+1632,WiFi keeps disconnecting - customer complaint,Network,High
+2182,Error message on opening file - urgent fix needed,Software,Medium
+2645,Cannot access shared folder - in production,Access,Low
+1593,Packet loss on network - urgent fix needed,Network,Medium
+3177,Index fragmentation high - reported by team,Database,Critical
+1940,WiFi keeps disconnecting - urgent fix needed,Network,Medium
+3326,Database backup not running - in production,Database,High
+2250,Software installation failed - reported by team,Software,Critical
+1905,Connection refused error - urgent fix needed,Network,High
+2947,Table corruption detected - for user,Database,Low
+3399,Please sign the NDA document,Database,Critical
+3014,Database lock detected - in production,Database,High
+2423,Application crashes on startup - urgent fix needed,Software,Critical
+2996,Database backup not running - customer complaint,Database,High
+2912,Database lock detected - customer complaint,Database,Critical
+1707,DNS resolution failing - for user,Network,Low
+2023,Software license expired - urgent fix needed,Software,Critical
+1746,Network adapter not detected - reported by team,Network,Low
+2830,Session timeout issue - customer complaint,Access,High
+2713,Two-factor authentication not working - customer complaint,Access,Low
+1514,WiFi speed very slow - customer complaint,Network,Low
+1082,Mouse cursor jumping randomly - in production,Hardware,Medium
+3216,Database lock detected - customer complaint,Database,Medium
+1915,WiFi keeps disconnecting - urgent fix needed,Network,Critical
+3302,Database connection timeout - urgent fix needed,Database,Low
+2818,Email access denied - urgent fix needed,Access,Medium
+1151,Monitor display flickering - for user,Hardware,Critical
+1775,DNS resolution failing - urgent fix needed,Network,Low
+1330,USB port not working - reported by team,Hardware,Critical
+1007,Printer not connecting to network - reported by team,Hardware,Critical
+1944,Connection refused error - for user,Network,Medium
+2595,Database authentication failed - reported by team,Access,Critical
+1735,Cannot connect to VPN - reported by team,Network,Critical
+1910,Network timeout errors - in production,Network,Critical
+1469,Monitor display flickering - for user,Hardware,Medium
+1182,Printer not connecting to network - customer complaint,Hardware,Low
+1165,Screen resolution issue - for user,Hardware,Critical
+1452,Printer not connecting to network - in production,Hardware,Low
+1491,Packet loss on network - reported by team,Network,High
+2917,Index fragmentation high - urgent fix needed,Database,Low
+2144,Runtime error in application - in production,Software,Critical
+2698,Session timeout issue - in production,Access,Critical
+2112,Application crashes on startup - urgent fix needed,Software,High
+3381,New gym membership available,Hardware,Critical
+2476,Password reset requiroed - customer complaint,Access,Critical
+2488,Password reset required - in production,Access,Medium
+2714,Cannot login to system - for user,Access,Low
+2821,User account locked - for user,Access,Critical
+3080,Connection pool exhausted - customer complaint,Database,Medium
+2850,User account locked - in production,Access,Critical
+2733,Session timeout issue - reported by team,Access,Critical
+2793,Database authentication failed - urgent fix needed,Access,High
+1328,Keyboard keys not responding - for user,Hardware,Medium
+1443,Hard drive making strange noise - in production,Hardware,Medium
+2593,Two-factor authentication not working - reported by team,Access,Medium
+2382,Software license expired - urgent fix needed,Software,Low
+1833,Network timeout errors - urgent fix needed,Network,Critical
+3468,New gym membership available,Access,Medium
+2892,Permission denied error - customer complaint,Access,High
+2311,Update failed to install - reported by team,Software,Critical
+1087,Fan making loud noise - for user,Hardware,Medium
+3441,Parking lot full this morning,Software,Medium
+1778,WiFi speed very slow - for user,Network,High
+3427,Submit your expense report by Friday,Network,Low
+1055,Fan making loud noise - customer complaint,Hardware,Medium
+2876,Database authentication failed - for user,Access,Medium
+2288,Application freezing randomly - reported by team,Software,Medium
+2732,Cannot login to system - customer complaint,Access,Low
+2802,Session timeout issue - for user,Access,Medium
+2246,Runtime error in application - urgent fix needed,Software,Low
+1114,Laptop not turning on - for user,Hardware,Critical
+3342,Database replication lagging - for user,Database,Low
+1988,Application not responding - customer complaint,Software,Low
+3262,Database replication lagging - for user,Database,Medium
+3074,Database lock detected - reported by team,Database,Low
+2010,Runtime error in application - urgent fix needed,Software,Low
+2199,Runtime error in application - in production,Software,Medium
+1590,DNS resolution failing - reported by team,Network,Low
+1769,Network timeout errors - in production,Network,Low
+1018,Monitor display flickering - reported by team,Hardware,Low
+2043,Software installation failed - urgent fix needed,Software,High
+3041,Database lock detected - reported by team,Database,Critical
+1286,Monitor display flickering - for user,Hardware,Medium
+1429,Monitor display flickering - reported by team,Hardware,Low
+2922,Index fragmentation high - reported by team,Database,High
+2357,Application not responding - urgent fix needed,Software,Low
+1670,Network adapter not detected - urgent fix needed,Network,Medium
+1032,Screen resolution issue - for user,Hardware,Critical
+1723,Network adapter not detected - reported by team,Network,Medium
+1952,Application freezing randomly - urgent fix needed,Software,Low
+2765,Session timeout issue - in production,Access,High
+1215,Keyboard keys not responding - customer complaint,Hardware,Low
+2790,Two-factor authentication not working - customer complaint,Access,Critical
+2165,Application not responding - urgent fix needed,Software,Low
+1327,Mouse cursor jumping randomly - customer complaint,Hardware,High
+1561,Internet connection drops frequently - for user,Network,Low
+2087,Plugin compatibility issue - urgent fix needed,Software,Low
+2831,Email access denied - customer complaint,Access,High
+1342,Printer not connecting to network - urgent fix needed,Hardware,Medium
+1148,USB port not working - for user,Hardware,Critical
+2841,Permission denied error - in production,Access,High
+2108,Application freezing randomly - for user,Software,Low
+1849,Connection refused error - customer complaint,Network,Medium
+1967,Update failed to install - in production,Software,Critical
+2073,Plugin compatibility issue - for user,Software,Critical
+1156,Hard drive making strange noise - for user,Hardware,Low
+3142,Table corruption detected - in production,Database,Medium
+3111,Database lock detected - customer complaint,Database,Low
+2003,Error message on opening file - urgent fix needed,Software,Low
+2845,Session timeout issue - customer complaint,Access,Low
+3093,Connection pool exhausted - for user,Database,High
+2849,Access rights need update - customer complaint,Access,Critical
+3210,Query execution failed - urgent fix needed,Database,Critical
+3353,Query execution failed - reported by team,Database,Critical
+2204,Application crashes on startup - for user,Software,Low
+2633,Cannot access shared folder - in production,Access,Medium
+3346,Query execution failed - for user,Database,Critical
+2394,Application freezing randomly - for user,Software,Low
+3352,Database replication lagging - customer complaint,Database,Low
+3289,Database backup not running - urgent fix needed,Database,Critical
+2981,Database backup not running - customer complaint,Database,High
+3243,Index fragmentation high - reported by team,Database,Critical
+1939,Network timeout errors - for user,Network,High
+3245,Query performance very slow - for user,Database,Low
+1347,Battery not charging - in production,Hardware,Low
+3085,Database backup not running - urgent fix needed,Database,High
+3475,Employee handbook PDF attached,Software,Medium
+2419,Runtime error in application - for user,Software,Medium
+1386,Fan making loud noise - customer complaint,Hardware,Medium
+2581,Two-factor authentication not working - urgent fix needed,Access,High
+3098,Query execution failed - urgent fix needed,Database,Low
+1244,Screen resolution issue - for user,Hardware,Medium
+2623,Email access denied - for user,Access,Critical
+1937,Network timeout errors - for user,Network,High
+3222,Connection pool exhausted - in production,Database,Critical
+1313,Printer not connecting to network - urgent fix needed,Hardware,Medium
+3440,Update your emergency contact information,Access,Critical
+2525,Cannot access shared folder - for user,Access,Medium
+2333,Plugin compatibility issue - for user,Software,Critical
+1969,Runtime error in application - customer complaint,Software,Critical
+1661,DNS resolution failing - urgent fix needed,Network,Low
+1936,Network timeout errors - in production,Network,Critical
+1371,Screen resolution issue - customer complaint,Hardware,Critical
+1567,Unable to access company intranet - customer complaint,Network,Medium
+2958,Database connection timeout - in production,Database,Critical
+1825,WiFi speed very slow - customer complaint,Network,High
+1983,Version mismatch error - for user,Software,Low
+2980,Database backup not running - for user,Database,Critical
+2478,Two-factor authentication not working - reported by team,Access,Low
+3149,Database lock detected - customer complaint,Database,Critical
+1814,Cannot connect to VPN - in production,Network,Low
+1779,WiFi speed very slow - urgent fix needed,Network,Critical
+2321,Update failed to install - urgent fix needed,Software,Low
+2522,Cannot login to system - in production,Access,Medium
+2053,Version mismatch error - in production,Software,High
+2814,Password reset required - for user,Access,Critical
+2014,Version mismatch error - in production,Software,Low
+2402,Version mismatch error - reported by team,Software,Medium
+2710,Email access denied - in production,Access,Critical
+3072,Query execution failed - customer complaint,Database,Critical
+2754,Cannot login to system - in production,Access,Critical
+1127,Hard drive making strange noise - customer complaint,Hardware,Medium
+1888,Network adapter not detected - for user,Network,Medium
+3030,Table corruption detected - for user,Database,High
+2348,Plugin compatibility issue - urgent fix needed,Software,Low
+2008,Software installation failed - urgent fix needed,Software,Medium
+1356,Hard drive making strange noise - for user,Hardware,Low
+2004,Application not responding - urgent fix needed,Software,High
+1683,Internet connection drops frequently - in production,Network,Medium
+1828,Unable to access company intranet - for user,Network,Critical
+2492,Two-factor authentication not working - in production,Access,Medium
+1985,Software license expired - urgent fix needed,Software,Medium
+2234,Application crashes on startup - for user,Software,Low
+3122,Database lock detected - in production,Database,Medium
+1141,Mouse cursor jumping randomly - in production,Hardware,High
+1218,Battery not charging - customer complaint,Hardware,High
+3049,Data synchronization error - reported by team,Database,Critical
+2655,Database authentication failed - urgent fix needed,Access,Low
+3219,Database backup not running - reported by team,Database,Critical
+2701,Database authentication failed - reported by team,Access,Low
+2454,User account locked - customer complaint,Access,Critical
+1023,Laptop not turning on - urgent fix needed,Hardware,Medium
+1712,Network timeout errors - in production,Network,Medium
+2158,Software installation failed - in production,Software,High
+2685,User account locked - customer complaint,Access,Critical
+1872,Cannot connect to VPN - in production,Network,Critical
+2462,Database authentication failed - in production,Access,High
+1011,Fan making loud noise - for user,Hardware,High
+2741,Password reset required - customer complaint,Access,Medium
+3357,Query performance very slow - reported by team,Database,High
+3324,Query execution failed - reported by team,Database,Low
+2316,Application not responding - for user,Software,Medium
+1755,WiFi speed very slow - for user,Network,High
+1627,Connection refused error - in production,Network,Critical
+2729,Access rights need update - reported by team,Access,Low
+2469,Two-factor authentication not working - urgent fix needed,Access,Critical
+1130,Screen resolution issue - for user,Hardware,Critical
+1844,Unable to access company intranet - customer complaint,Network,Medium
+1324,Laptop not turning on - urgent fix needed,Hardware,Low
+3157,Table corruption detected - in production,Database,Medium
+2449,Password reset required - for user,Access,High
+2285,Error message on opening file - customer complaint,Software,Low
+3422,Update your LinkedIn profile,Network,High
+1015,Printer not connecting to network - in production,Hardware,High
+3047,Database backup not running - in production,Database,High
+1216,Monitor display flickering - urgent fix needed,Hardware,Medium
+2625,Session timeout issue - customer complaint,Access,Medium
+2938,Table corruption detected - urgent fix needed,Database,Critical
+2183,Software installation failed - for user,Software,Critical
+2651,Database authentication failed - in production,Access,Low
+2562,Cannot login to system - customer complaint,Access,Critical
+1865,Connection refused error - customer complaint,Network,Critical
+1517,Packet loss on network - urgent fix needed,Network,Critical
+1598,Unable to access company intranet - urgent fix needed,Network,Medium
+1196,Fan making loud noise - urgent fix needed,Hardware,High
+2278,Version mismatch error - customer complaint,Software,Low
+1289,Fan making loud noise - in production,Hardware,High
+1951,Application not responding - in production,Software,Low
+3351,Data synchronization error - customer complaint,Database,Critical
+2855,Session timeout issue - urgent fix needed,Access,High
+3382,New gym membership available,Hardware,Low
+2121,Application crashes on startup - urgent fix needed,Software,Medium
+2573,Session timeout issue - for user,Access,Low
+1550,Internet connection drops frequently - in production,Network,Critical
+1157,Printer not connecting to network - for user,Hardware,Medium
+1420,Laptop not turning on - urgent fix needed,Hardware,High
+1923,Packet loss on network - in production,Network,Medium
+2642,Two-factor authentication not working - urgent fix needed,Access,Critical
+1478,Internet connection drops frequently - customer complaint,Network,Low
+2606,Password reset required - urgent fix needed,Access,Medium
+3270,Database connection timeout - urgent fix needed,Database,Medium
+2472,Email access denied - in production,Access,Medium
+1554,Network timeout errors - in production,Network,Medium
+2203,Runtime error in application - urgent fix needed,Software,Low
+1391,Laptop not turnng on - in production,Hardware,High
+1579,WiFi speed very slow - customer complaint,Network,Critical
+3314,Database connection timeout - customer complaint,Database,Critical
+3368,Database connection timeout - reported by team,Database,High
+3267,Database connection timeout - for user,Database,Low
+1821,WiFi speed very slow - urgent fix needed,Network,High
+3486,New employee orientation next Monday,Database,High
+2007,Error message on opening file - customer complaint,Software,High
+2249,Plugin compatibility issue - for user,Software,High
+3059,Index fragmentation high - reported by team,Database,Low
+1665,WiFi speed very slow - in production,Network,Low
+3463,Quarterly business review meeting,Network,Low
+1143,Monitor display flickering - urgent fix needed,Hardware,Medium
+3175,Index fragmentation high - urgent fix needed,Database,High
+2826,Session timeout issue - for user,Access,Low
+1422,Battery not charging - in production,Hardware,Critical
+1800,Network timeout errors - reported by team,Network,Critical
+1616,Internet connection drops frequently - customer complaint,Network,Critical
+2319,Application freezing randomly - urgent fix needed,Software,High
+1296,USB port not working - in production,Hardware,High
+1402,USB port not working - in production,Hardware,High
+1089,USB port not working - urgent fix needed,Hardware,Critical
+3036,Database replication lagging - for user,Database,High
+3460,Please update your profile picture,Software,Medium
+1132,Keyboard keys not responding - urgent fix needed,Hardware,Medium
+2574,Two-factor authentication not working - for user,Access,High
+2563,Database authentication failed - reported by team,Access,Low
+2829,Email access denied - in production,Access,Medium
+2403,Application freezing randomly - for user,Software,Critical
+3053,Connection pool exhausted - customer complaint,Database,Low
+3168,Table corruption detected - reported by team,Database,Medium
+3002,Database backup not running - urgent fix needed,Database,Critical
+1725,WiFi keeps disconnecting - urgent fix needed,Network,Low
+2315,Application not responding - urgent fix needed,Software,High
+2768,Email access denied - customer complaint,Access,High
+1270,Laptop not turning on - customer complaint,Hardware,Low
+2781,Two-factor authentication not working - urgent fix needed,Access,High
+3068,Database lock detected - customer complaint,Database,Medium
+2373,Application not responding - for user,Software,Low
+1918,WiFi keeps disconnecting - reported by team,Network,Low
+2611,Permission denied error - in production,Access,Medium
+2320,Application crashes on startup - for user,Software,High
+3139,Query execution failed - for user,Database,Low
+3022,Database connection timeout - reported by team,Database,High
+2594,Cannot access shared folder - customer complaint,Access,Medium
+3491,Inventory audit starting tomorrow,Access,Medium
+1376,Screen resolution issue - for user,Hardware,Critical
+1334,Fan making loud noise - in production,Hardware,High
+2792,Password reset required - urgent fix needed,Access,Critical
+3349,Query execution failed - reported by team,Database,High
+2119,Update failed to install - reported by team,Software,Medium
+2443,Session timeout issue - urgent fix needed,Access,Low
+1911,Network adapter not detected - reported by team,Network,High
+1777,DNS resolution failing - reported by team,Network,High
+2744,Database authentication failed - for user,Access,Critical
+1329,Monitor display flickering - reported by team,Hardware,Low
+2343,Version mismatch error - customer complaint,Software,Medium
+1321,Battery not charging - reported by team,Hardware,High
+3011,Database connection timeout - reported by team,Database,Critical
+1013,Keyboard keys not responding - urgent fix needed,Hardware,High
+1898,WiFi speed very slow - reported by team,Network,Low
+1172,Laptop not turning on - for user,Hardware,Critical
+1261,Fan making loud noise - for user,Hardware,Critical
+3403,Office temperature is too cold,Software,Low
+1690,WiFi keeps disconnecting - in production,Network,Medium
+1902,DNS resolution failing - in production,Network,Low
+1259,Monitor display flickering - urgent fix needed,Hardware,Low
+1845,Unable to access company intranet - customer complaint,Network,Critical
+3303,Database lock detected - customer complaint,Database,Low
+1139,Printer not connecting to network - urgent fix needed,Hardware,Critical
+1320,Fan making loud noise - reported by team,Hardware,High
+1654,Cannot connect to VPN - customer complaint,Network,Medium
+3203,Connection pool exhausted - in production,Database,Medium
+2815,Permission denied error - in production,Access,Critical
+1559,WiFi speed very slow - cUstomer complaint,Network,Low
+1140,Printer not connecting to network - urgent fix needed,Hardware,Medium
+1113,Keyboard keys not responding - urgent fix needed,Hardware,High
+1532,Network adapter not detected - in production,Network,Medium
+1225,Keyboard keys not responding - urgent fix needed,Hardware,Low
+1724,Unable to access company intranet - customer complaint,Network,Medium
+3320,Data synchronization error - urgent fix needed,Database,High
+3137,Data synchronization error - in production,Database,High
+2434,Cannot login to system - customer complaint,Access,High
+1326,Hard drive making strange noise - customer complaint,Hardware,Medium
+2324,Update failed to install - urgent fix needed,Software,Low
+2940,Table corruption detected - reported by team,Database,High
+2459,Two-factor authentication not working - customer complaint,Access,Medium
+2928,Database replication lagging - reported by team,Database,Medium
+3249,Index fragmentation high - in production,Database,Medium
+1715,Internet connection drops frequently - for user,Network,Low
+1847,Internet connection drops frequently - urgent fix needed,Network,High
+1194,Mouse cursor jumping randomly - in production,Hardware,Medium
+2926,Databsse backup not running - customer complaint,Database,Critical
+1574,Network timeout errors - in production,Network,High
+1947,Internet connection drops frequently - customer complaint,Network,Medium
+1504,WiFi speed very slow - in production,Network,High
+2808,User account locked - for user,Access,Critical
+3408,Lunch menu for next week posted,Access,High
+1646,Network timeout errors - urgent fix needed,Network,Critical
+1004,USB port not working - in production,Hardware,High
+2778,Session timeout issue - for user,Access,High
+1468,Mouse cursor jumping randomly - in production,Hardware,Low
+2346,Application crashes on startup - in production,Software,Critical
+1006,Battery not charging - in production,Hardware,Medium
+3032,Connection pool exhausted - urgent fix needed,Database,Medium
+1920,Cannot connect to VPN - in production,Network,Low
+1548,Cannot connect to VpN - reported by team,Network,High
+1229,USB port not working - for user,Hardware,High
+2064,Error message on opening file - urgent fix needed,Software,Medium
+1543,DNS resolution fsiling - in production,Network,Low
+1243,Laptop not turning on - in production,Hardware,Low
+1899,Unable to access company intranet - urgent fix needed,Network,High
+2755,Access rights need update - in production,Access,High
+2161,Application not responding - in production,Software,Medium
+2833,Permission denied error - urgent fix needed,Access,Medium
+2689,Session timeout issue - customer complaint,Access,Medium
+2810,Cannot access shared folder - reported by team,Access,Low
+1843,Unable to access company intranet - reported by team,Network,Medium
+2374,Plugin compatibility issue - reported by team,Software,Critical
+3108,Database connection timeout - urgent fix needed,Database,Medium
+3113,Database lock detected - reported by team,Database,High
+2527,Permission denied error - customer complaint,Access,High
+1277,Battery not charging - urgent fix needed,Hardware,Critical
+1662,Packet loss on network - for user,Network,Critical
+2827,Email access denied - reported by team,Access,Low
+3117,Database backup not running - in production,Database,High
+3358,Query performance very slow - in production,Database,Critical
+2859,Cannot access shared folder - customer complaint,Access,Low
+1315,Keyboard keys not responding - in production,Hardware,High
+2467,Database authentication failed - in production,Access,Low
+2344,Software installation failed - urgent fix needed,Software,High
+2846,Cannot login to system - in production,Access,Medium
+1692,Network timeout errors - customer complaint,Network,Critical
+2542,Cannot login to system - urgent fix needed,Access,High
+1613,WiFi speed very slow - urgent fix needed,Network,Low
+1425,USB port not working - reported by team,Hardware,High
+2578,Permission denied error - in production,Access,Low
+1595,Unable to access company intranet - in production,Network,Medium
+3476,Update your emergency contact information,Database,Low
+2951,Query execution failed - in production,Database,High
+1623,WiFi keeps disconnecting - for user,Network,High
+2806,Permission denied error - in production,Access,Critical
+2494,Two-factor authentication not working - for user,Access,Medium
+3239,Database lock detected - reported by team,Database,High
+1228,Hard drive making strange noise - in production,Hardware,Critical
+3323,Index fragmentation high - customer complaint,Database,Low
+2170,Application freezing randomly - for user,Software,Low
+3038,Database connection timeout - for user,Database,Critical
+2703,Email access denied - customer complaint,Access,Low
+1067,Mouse cursor jumping randomly - urgent fix needed,Hardware,Medium
+2418,Application crashes on startup - reported by team,Software,High
+3255,Database connection timeout - in production,Database,Low
+1025,Hard drive making strange noise - reported by team,Hardware,Critical
+2236,Error message on opening file - customer complaint,Software,High
+3464,New employee orientation next Monday,Database,Medium
+1145,Keyboard keys not responding - urgent fix needed,Hardware,Medium
+1537,Unable to access company intranet - reported by team,Network,High
+1812,Internet connection drops frequently - urgent fix needed,Network,High
+2736,Database authentication failed - customer complaint,Access,Low
+2498,Cannot login to system - for user,Access,Medium
+1086,Laptop not turning on - in production,Hardware,Critical
+2255,Software license expired - urgent fix needed,Software,Critical
+3208,Database backup not running - for user,Database,Low
+3362,Database replication lagging - reported by team,Database,Medium
+3067,Data synchronization error - in production,Database,Medium
+2670,Cannot login to system - urgent fix needed,Access,Critical
+1485,Network adapter not detected - for user,Network,Low
+3227,Database backup not running - customer complaint,Database,Critical
+3387,Urgent: Update your antivirus software,Access,Medium
+1739,Connection refused error - customer complaint,Network,High
+2771,User account locked - reported by team,Access,Low
+3189,Connection pool exhausted - reported by team,Database,Critical
+3462,New parking passes issued,Network,Low
+2743,Cannot access shared folder - customer complaint,Access,Critical
+1363,Mouse cursor jumping randomly - customer complaint,Hardware,Critical
+1750,Connection refused error - reported by team,Network,Low
+3106,Table corruption detected - in production,Database,Critical
+2647,Cannot login to system - reported by team,Access,Critical
+2027,Update failed to install - for user,Software,Critical
+2031,Software license expired - in production,Software,Critical
+2869,Cannot login to system - urgent fix needed,Access,High
+2336,Runtime error in application - urgent fix needed,Software,High
+3060,Database replication lagging - customer complaint,Database,Critical
+2895,User account locked - reported by team,Access,Medium
+1666,Unable to access company intranet - for user,Network,Critical
+1365,Mouse cursor jumping randomly - urgent fix needed,Hardware,Low
+3293,Index fragmentation high - urgent fix needed,Database,High
+2240,Software license expired - reported by team,Software,Critical
+1078,Monitor display flickering - in production,Hardware,High
+1028,Monitor display flickering - reported by team,Hardware,Medium
+1474,USB port not working - in production,Hardware,High
+1526,WiFi keeps disconnecting - reported by team,Network,Low
+1726,WiFi speed very slow - customer complaint,Network,High
+1056,Mouse cursor jumping randomly - in production,Hardware,Critical
+1639,Packet loss on network - for user,Network,High
+1303,Mouse cursor jumping randomly - for user,Hardware,Critical
+1719,Internet connection drops frequently - in production,Network,Critical
+2872,Email access denied - in production,Access,Medium
+1625,Packet loss on network - reported by team,Network,Critical
+1008,Hard drive making strange noise - reported by team,Hardware,Critical
+2281,Error message on opening file - urgent fix needed,Software,Medium
+1804,DNS resolution failing - in production,Network,Critical
+2050,Application crashes on startup - for user,Software,High
+1337,Monitor display flickering - customer complaint,Hardware,Critical
+2597,Permission denied error - urgent fix needed,Access,Low
+1048,Keyboard keys not responding - for user,Hardware,Critical
+3153,Index fragmentation high - customer complaint,Database,Medium
+1107,Laptop not turning on - urgent fix needed,Hardware,High
+1350,Laptop not turning on - reported by team,Hardware,Medium
+2080,Runtime error in application - customer complaint,Software,Low
+1239,Printer not connecting to network - for user,Hardware,Medium
+1214,Screen resolution issue - in production,Hardware,High
+2145,Application not responding - in production,Software,Low
+3380,Please sign the NDA document,Network,Medium
+2762,Permission denied error - in production,Access,High
+1794,WiFi keeps disconnecting - customer complaint,Network,Medium
+2097,Software installation failed - in production,Software,Critical
+3207,Database lock detected - urgent fix needed,Database,High
+2740,Database authentication failed - customer complaint,Access,Critical
+3223,Database backup not running - urgent fix needed,Database,Critical
+1346,Screen resolution issue - for user,Hardware,Medium
+1524,DNS resolution failing - customer complaint,Network,High
+1233,Screen resolution issue - urgent fix needed,Hardware,Medium
+1645,Network timeout errors - customer complaint,Network,Critical
+2918,Query performance very slow - reported by team,Database,Medium
+3171,Database lock detected - for user,Database,Critical
+2429,Access rights need update - for user,Access,Medium
+1534,Cannot connect to VPN - in production,Network,Medium
+3172,Data synchronization error - reported by team,Database,Medium
+1604,WiFi speed very slow - in production,Network,Critical
+2490,Cannot access shared folder - for user,Access,Critical
+2858,Access rights need update - reported by team,Access,Medium
+2427,Cannot login to system - in production,Access,High
+2075,Application crashes on startup - urgent fix needed,Software,High
+3006,Database backup not running - in production,Database,Critical
+1061,Fan making loud noise - in production,Hardware,High
+2941,Database backup not running - urgent fix needed,Database,High
+1093,USB port not working - for user,Hardware,Low
+1667,Packet loss on network - urgent fix needed,Network,Low
+2721,Email access denied - reported by team,Access,Critical
+3247,Index fragmentation high - customer complaint,Database,Medium
+1281,Keyboard keys not responding - in production,Hardware,Low
+2720,Permission denied error - urgent fix needed,Access,High
+2726,Cannot access shared folder - urgent fix needed,Access,Low
+1360,Screen resolution issue - for user,Hardware,Medium
+2749,Two-factor authentication not working - for user,Access,Critical
+2544,Email access denied - for user,Access,Low
+2398,Update failed to install - in production,Software,Critical
+2804,Database authentication failed - urgent fix needed,Access,High
+1848,Unable to access company intranet - urgent fix needed,Network,Critical
+2207,Application freezing randomly - customer complaint,Software,High
+3263,Index fragmentation high - in production,Database,Critical
+1761,Cannot connect to VPN - customer complaint,Network,Medium
+1111,Laptop not turning on - urgent fix needed,Hardware,High
+1043,Battery not charging - in production,Hardware,High
+1126,Laptop not turning on - for user,Hardware,Low
+1205,USB port not working - customer complaint,Hardware,Critical
+2474,Email access denied - for user,Access,High
+1053,Hard drive making strange noise - urgent fix needed,Hardware,Medium
+1546,Unable to access company intranet - customer complaint,Network,Low
+1069,Laptop not turning on - customer complaint,Hardware,Low
+3224,Database lock detected - in production,Database,High
+2952,Index fragmentation high - reported by team,Database,Critical
+3198,Query execution failed - for user,Database,Low
+2909,Database lock detected - reported by team,Database,Low
+2425,Error message on opening file - reported by team,Software,High
+1184,Fan making loud noise - in production,Hardware,Low
+1138,Printer not connecting to network - for user,Hardware,Critical
+1900,WiFi speed very slow - in production,Network,High
+1797,Connection refused error - reported by team,Network,Critical
+1133,Monitor display flickering - in production,Hardware,Low
+1081,Mouse cursor jumping randomly - urgent fix needed,Hardware,High
+2587,Session timeout issue - in production,Access,High
+3158,Database connection timeout - urgent fix needed,Database,Low
+1759,WiFi keeps disconnecting - customer complaint,Network,Low
+1542,WiFi speed very slow - urgent fix needed,Network,High
+2020,Runtime error in application - urgent fix needed,Software,High
+2767,Email access denied - urgent fix needed,Access,Medium
+1984,Software installation failed - customer complaint,Software,Low
+3232,Query execution failed - urgent fix needed,Database,Low
+1166,Printer not connecting to network - customer complaint,Hardware,Critical
+1249,Printer not connecting to network - customer complaint,Hardware,Medium
+2332,Software license expired - in production,Software,High
+1447,Printer not connecting to network - reported by team,Hardware,Critical
+2777,Cannot login to system - reported by team,Access,Medium
+1859,Unable to access company intranet - urgent fix needed,Network,High
+2359,Error message on opening file - for user,Software,Critical
+2862,Email access denied - reported by team,Access,Low
+1098,Battery not charging - urgent fix needed,Hardware,Medium
+3308,Database connection timeout - for user,Database,High
+1806,WiFi keeps disconnecting - customer complaint,Network,High
+1738,Connection refused error - urgent fix needed,Network,Medium
+3101,Data synchronization error - in production,Database,Medium
+2886,Password reset required - reported by team,Access,High
+3001,Connection pool exhausted - customer complaint,Database,Medium
+1103,Keyboard keys not responding - customer complaint,Hardware,Low
+1435,Keyboard keys not responding - urgent fix needed,Hardware,Medium
+1075,Screen resolution issue - urgent fix needed,Hardware,High
+1578,Network adapter not detected - reported by team,Network,Medium
+2847,Cannot login to system - in production,Access,Critical
+3313,Database replication lagging - reported by team,Database,Low
+2231,Version mismatch error - in production,Software,Critical
+1919,WiFi keeps disconnecting - urgent fix needed,Network,High
+2327,Application not responding - customer complaint,Software,Medium
+3316,Database connection timeout - customer complaint,Database,Medium
+3287,Index fragmentation high - in production,Database,High
+3246,Database connection timeout - reported by team,Database,Medium
+1763,Connection refused error - for user,Network,Low
+3116,Query execution failed - for user,Database,High
+1990,Application not responding - reported by team,Software,Critical
+1389,Hard drive making strange noise - reported by team,Hardware,High
+1236,Laptop not turning on - customer complaint,Hardware,Critical
+3495,New employee orientation next Monday,Network,Medium
+1268,Hard drive making strange noise - for user,Hardware,Critical
+2330,Error message on opening file - customer complaint,Software,Critical
+3304,Database backup not running - for user,Database,High
+1118,Keyboard keys not responding - urgent fix needed,Hardware,Low
+1438,Battery not charging - in production,Hardware,Medium
+1674,DNS resolution failing - urgent fix needed,Network,Critical
+1250,Keyboard keys not responding - customer complaint,Hardware,High
+3129,Data synchronization error - urgent fix needed,Database,Medium
+2575,Permission denied error - for user,Access,High
+3497,Please approve my vacation request,Database,Low
+1095,Keyboard keys not responding - urgent fix needed,Hardware,Critical
+2898,Session timeout issue - urgent fix needed,Access,Low
+1034,Laptop not turning on - for user,Hardware,High
+3135,Index fragmentation high - for user,Database,Medium
+3285,Query execution failed - in production,Database,Low
+1449,Printer not connecting to network - for user,Hardware,Medium
+2470,Permission denied error - urgent fix needed,Access,High
+2796,Permission denied error - reported by team,Access,Low
+1717,Connection refused error - customer complaint,Network,High
+2942,Database replication lagging - in production,Database,Low
+3176,Table corruption detected - for user,Database,Low
+1001,USB port not working - urgent fix needed,Hardware,Low
+1457,Screen resolution issue - customer complaint,Hardware,Critical
+2102,Plugin compatibility issue - for user,Software,Medium
+2109,Application crashes on startup - customer complaint,Software,High
+2883,Access rights need update - for user,Access,Medium
+1083,Keyboard keys not responding - in production,Hardware,Critical
+2482,Two-factor authentication not working - customer complaint,Access,Critical
+2977,Connection pool exhausted - customer complaint,Database,High
+1677,Internet connection drops frequently - for user,Network,Critical
+3043,Database backup not running - customer complaint,Database,Critical
+3127,Database backup not running - reported by team,Database,High
+2047,Plugin compatibility issue - customer complaint,Software,High
+2461,Cannot login to system - in production,Access,Low
+1771,DNS resolution failing - for user,Network,High
+2669,Session timeout issue - reported by team,Access,Medium
+3025,Index fragmentation high - reported by team,Database,Low
+2964,Query execution failed - reported by team,Database,Critical
+1518,Network adapter not detected - customer complaint,Network,Low
+1823,Cannot connect to VPN - reported by team,Network,Medium
+1405,Battery not charging - in production,Hardware,Medium
+1385,Fan making loud noise - reported by team,Hardware,Critical
+2992,Database replication lagging - customer complaint,Database,High
+3425,Update your LinkedIn profile,Access,Low
+1105,Laptop not turning on - customer complaint,Hardware,Critical
+2634,Email access denied - reported by team,Access,Low
+3385,Please approve my vacation request,Network,Medium
+1689,WiFi speed very slow - for user,Network,Medium
+3211,Query performance very slow - in production,Database,Medium
+1827,Cannot connect to VPN - for user,Network,High
+2241,Update failed to install - customer complaint,Software,Critical
+1063,Printer not connecting to network - for user,Hardware,High
+2306,Runtime error in application - customer complaint,Software,Medium
+1853,Network adapter not detected - customer complaint,Network,Medium
+3321,Database replication lagging - for user,Database,High
+1177,Screen resolution issue - reported by team,Hardware,Medium
+2263,Version mismatch error - customer complaint,Software,Low
+1224,Printer not connecting to network - urgent fix needed,Hardware,High
+1146,USB port not working - reported by team,Hardware,Low
+2089,Version mismatch error - urgent fix needed,Software,Critical
+1374,Mouse cursor jumping randomly - urgent fix needed,Hardware,Low
+2825,Cannot login to system - in production,Access,Low
+3110,Database backup not running - reported by team,Database,Critical
+2143,Software license expired - in production,Software,High
+3393,Lunch menu for next week posted,Database,Critical
+3164,Data synchronization error - in production,Database,Low
+2275,Software license expired - for user,Software,Low
+2266,Runtime error in application - for user,Software,Low
+3234,Database connection timeout - in production,Database,Critical
+2949,Database replication lagging - customer complaint,Database,Medium
+1010,Screen resolution issue - customer complaint,Hardware,Critical
+1450,Screen resolution issue - urgent fix needed,Hardware,High
+2839,Cannot login to system - for user,Access,Medium
+1709,WiFi keeps disconnecting - customer complaint,Network,Low
+1256,Battery not charging - reported by team,Hardware,Critical
+1883,Packet loss on network - reported by team,Network,Medium
+2618,Cannot login to system - urgent fix needed,Access,Critical
+1390,Monitor display flickering - in production,Hardware,Medium
+3016,Database replication lagging - urgent fix needed,Database,High
+3396,Company policy change announcement,Software,Critical
+2582,User account locked - for user,Access,Low
+1909,Unable to access company intranet - in production,Network,Low
+1925,Packet loss on network - customer complaint,Network,Medium
+1752,Network adapter not detected - for user,Network,High
+2890,Access rights need update - reported by team,Access,Medium
+1461,Keyboard keys not responding - reported by team,Hardware,Low
+2748,Cannot login to system - for user,Access,Critical
+2948,Table corruption detected - for user,Database,Medium
+2225,Error message on opening file - in production,Software,Medium
+2169,Plugin compatibility issue - urgent fix needed,Software,Low
+1959,Runtime error in application - urgent fix needed,Software,Critical
+1502,Network adapter not detected - urgent fix needed,Network,Medium
+2728,User account locked - urgent fix needed,Access,Low
+1740,Connection refused error - for user,Network,Medium
+1041,Monitor display flickering - for user,Hardware,Critical
+1869,Internet connection drops frequently - customer complaint,Network,Critical
+1732,Cannot connect to VPN - urgent fix needed,Network,Low
+1540,WiFi speed very slow - urgent fix needed,Network,Medium
+2202,Update failed to install - customer complaint,Software,High
+2340,Error message on opening file - customer complaint,Software,High
+1698,Connection refused error - reported by team,Network,High
+3345,Table corruption detected - customer complaint,Database,Low
+3088,Table corruption detected - reported by team,Database,Critical
+3077,Data synchronization error - urgent fix needed,Database,Critical
+2372,Runtime error in application - for user,Software,Low
+2146,Plugin compatibility issue - urgent fix needed,Software,Critical
+2032,Runtime error in application - in production,Software,Medium
+1373,Battery not charging - urgent fix needed,Hardware,High
+1668,Connection refused error - in production,Network,Medium
+2432,Permission denied error - for user,Access,Low
+3184,Index fragmentation high - in production,Database,Critical
+1358,Laptop not turning on - urgent fix needed,Hardware,Medium
+1968,Software license expired - reported by team,Software,High
+1784,Packet loss on network - urgent fix needed,Network,High
+1736,WiFi speed very slow - reported by team,Network,Low
+2354,Software installation failed - in production,Software,Medium
+2036,Software installation failed - reported by team,Software,Medium
+1971,Version mismatch error - reported by eam,Software,Critical
+1471,Fan making loudn oise - for user,Hardware,Low
+1656,Internet connection drops frequently - in production,Network,Medium
+3354,Query performance very slow - customer complaint,Database,Low
+2910,Database lock detected - urgent fix needed,Database,Medium
+3331,Query performance very slow - reported by team,Database,High
+2397,Application not responding - customer complaint,Software,Low
+2537,Access rights need update - for user,Access,Low
+2984,Index fragmentation high - reported by team,Database,Low
+3182,Query performance very slow - reported by team,Database,Low
+2550,Cannot login to system - in production,Access,Critical
+2329,Application not responding - customer complaint,Software,High
+2257,Error message on opening file - customer complaint,Software,High
+3162,Query execution failed - for user,Database,Critical
+2426,User account locked - urgent fix needed,Access,Medium
+2465,Session timeout issue - reported by team,Access,Medium
+2556,Session timeout issue - in production,Access,Low
+3156,Connection pool exhausted - in production,Database,Low
+2251,Runtime error in application - customer complaint,Software,Critical
+2700,Database authentication failed - reported by team,Access,Low
+2253,Runtime error in application - for user,Software,High
+3426,Parking lot full this morning,Access,Low
+3319,Data synchronization error - reported by team,Database,Low
+2237,Runtime error in application - for user,Software,Medium
+1886,WiFi speed very slow - for user,Network,Low
+1080,Hard drive making strange noise - customer complaint,Hardware,High
+2173,Error message on opening file - in production,Software,Medium
+1815,DNS resolution failing - for user,Network,Low
+2853,Session timeout issue - in production,Access,High
+2971,Connection pool exhausted - urgent fix needed,Database,Low
+1672,Network timeout errors - in production,Network,Critical
+3187,Database replication lagging - customer complaint,Database,Critical
+3442,Submit your expense report by Friday,Hardware,Critical
+1058,USB port not working - for user,Hardware,Low
+1134,Screen resolution issue - customer complaint,Hardware,Medium
+2141,Version mismatch error - for user,Software,Low
+1934,Cannot connect to VPN - customer complaint,Network,Critical
+1929,Cannot connect to VPN - customer complaint,Network,Critical
+1824,WiFi keeps disconnecting - reported by team,Network,Medium
+2433,Cannot login to system - in production,Access,Low
+2393,Update failed to install - customer complaint,Software,Low
+2532,Two-factor authentication not working - customer complaint,Access,Low
+2215,Software installation failed - in production,Software,Low
+1505,WiFi speed very slow - in production,Network,High
+3470,New gym membership available,Network,High
+1348,Hard drive making strange noise - for user,Hardware,High
+1387,Fan making loud noise - in production,Hardware,High
+2025,Version mismatch error - in production,Software,Low
+2959,Query performance very slo - in production,Database,Medium
+2385,Runtime error in application - in production,Software,Critical
+1895,Unable to access company intranet - urgent fix needed,Network,Critical
+1829,Cannot connect to VPN - urgent fix needed,Network,Low
+3435,Lunch menu for next week posted,Software,Medium
+1476,Cannot connect to VPN - reported by team,Network,Critical
+2684,Session timeout issue - reported by team,Access,Critical
+3141,Query execution failed - in production,Database,High
+3328,Index fragmentation high - in production,Database,Medium
+3126,Database connection timeout - customer complaint,Database,Medium
+3090,Database backup not running - customer complaint,Database,Critical
+1653,Cannot connect to VPN - reported by team,Network,Medium
+1173,Screen resolution issue - in production,Hardware,Critical
+2475,User account locked - in production,Access,Critical
+2150,Update failed to install - in production,Software,Low
+1039,Screen resolution issue - reported by team,Hardware,Low
+2555,Database authentication failed - in production,Access,Medium
+3386,Office temperature is too cold,Database,High
+1714,WiFi keeps disconnecting - in production,Network,Low
+1091,Laptop not turning on - reported by team,Hardware,Low
+1167,Battery not charging - reported by team,Hardware,Low
+2206,Plugin compatibility issue - in production,Software,High
+1876,Internet connection drops frequently - for user,Network,Low
+1445,Monitor display flickering - customer complaint,Hardware,High
+3152,Query execution failed - for user,Database,Medium
+3292,Data synchronization error - in production,Database,Medium
+3484,Urgent: Update your antivirus software,Software,High
+2094,Software installation failed - for user,Software,Medium
+2828,Cannot login to system - for user,Access,Critical
+2156,Application crashes on startup - urgent fix needed,Software,Low
+2325,Software installation failed - for user,Software,Medium
+1217,Screen resolution issue - urgent fix needed,Hardware,Critical
+2351,Application not responding - in production,Software,Low
+1511,WiFi keeps disconnecting - urgent fix needed,Network,Low
+2681,Password reset required - reported by team,Access,High
+1500,DNS resolution failing - for user,Network,Low
+3458,Parking lot full this morning,Software,Medium
+2857,Two-factor authentication not working - in production,Access,Medium
+2389,Update failed to install - reported by team,Software,Low
+2520,Email access denied - customer complaint,Access,High
+2672,Session timeout issue - in production,Access,Low
+1339,Keyboard keys not responding - in production,Hardware,Low
+3332,Database replication lagging - reported by team,Database,Medium
+2189,Plugin compatibility issue - customer complaint,Software,High
+1029,Mouse cursor jumping randomly - urgent fix needed,Hardware,Low
+2541,Cannot access shared folder - reported by team,Access,High
+2218,Software installation failed - customer complaint,Software,Critical
+3031,Database lock detected - reported by team,Database,High
+1795,WiFi keeps disconnecting - for user,Network,Low
+1946,Network adapter not detected - reported by team,Network,High
+2417,Version mismatch error - in production,Software,Medium
+1170,Laptop not turning on - customer complaint,Hardware,High
+3095,Database lock detected - for user,Database,Low
+2677,Cannot access shared folder - urgent fix needed,Access,Critical
+2198,Software installation failed - in production,Software,High
+2543,Permission denied error - for user,Access,High
+2254,Error message on opening file - for user,Software,High
+2277,Software installation failed - for user,Software,Critical
+1913,Connection refused error - in production,Network,High
+1492,Connection refused error - customer complaint,Network,Medium
+1954,Application freezing randomly - urgent fix needed,Software,Medium
+2098,Application not responding - for user,Software,Low
+2033,Runtime error in application - customer complaint,Software,Critical
+1588,Unable to access company intranet - in production,Network,High
+1751,WiFi speed very slow - in production,Network,Critical
+1658,Connection refused error - reported by team,Network,Critical
+2867,User account locked - in production,Access,High
+1235,Hard drive making strange noise - for user,Hardware,Low
+1733,DNS resolution failing - in production,Network,Medium
+3493,Coffee machine is broken again,Network,Low
+2187,Update failed to install - in production,Software,High
+2157,Software license expired - customer complaint,Software,Medium
+3454,Please update your profile picture,Access,Low
+2247,Runtime error in application - for user,Software,Medium
+3449,Need to order new office supplies,Database,Medium
+1935,Network adapter not detected - customer complaint,Network,High
+2210,Error message on opening file - reported by team,Software,Medium
+2066,Update failed to install - for user,Software,Medium
+2717,Email access denied - urgent fix needed,Access,Critical
+1109,Hard drive making strange noise - in production,Hardware,High
+2063,VersIon mismatch error - for user,Software,Critical
+1569,Network timeout errors - reported by team,Network,Critical
+2168,Update failed to install - for user,Software,Low
+2175,Application not responding - for user,Software,Low
+2589,User account locked - in production,Access,Medium
+2508,Session timeout issue - in production,Access,Medium
+2493,Permission denied error - urgent fix needed,Access,Low
+1891,Cannot connect to VPN - for user,Network,Critical
+1948,Internet connection drops frequently - in production,Network,Low
+2049,Update failed to install - urgent fix needed,Software,Critical
+3058,Query execution failed - customer complaint,Database,Medium
+1885,Network adapter not detected - for user,Network,Critical
+1144,Keyboard keys not responding - for user,Hardware,Critical
+3453,New gym membership available,Database,Medium
+1851,WiFi speed very slow - in production,Network,Low
+1718,WiFi keeps disconnecting - for user,Network,Low
+3372,Database connection timeout - for user,Database,Low
+1265,Hard drive making strange noise - reported by team,Hardware,Medium
+1076,Battery not charging - in production,Hardware,Low
+1396,Monitor display flickering - customer complaint,Hardware,Low
+3118,Connection pool exhausted - reported by team,Database,Medium
+3336,Table corruption detected - for user,Database,Critical
+1397,USB port not working - for user,Hardware,Critical
+2366,Update failed to install - customer complaint,Software,Critical
+3078,Database backup not running - for user,Database,Low
+2904,Query performance very slow - urgent fix needed,Database,High
+1596,WiFi speed very slow - urgent fix needed,Network,High
+2297,Plugin compatibility issue - customer complaint,Software,Medium
+2822,Cannot login to system - customer complaint,Access,High
+1873,Cannot connect to VPN - in production,Network,Medium
+2549,Email access denied - for user,Access,Medium
+1037,Laptop not turning on - in production,Hardware,High
+3274,Table corruption detected - for user,Database,Low
+3124,Database connection timeout - in production,Database,Critical
+1978,Software installation failed - for user,Software,High
+2572,Two-factor authentication not working - urgent fix needed,Access,Low
+2123,Software installation failed - urgent fix needed,Software,Low
+2893,Access rights need update - for user,Access,Critical
+1676,Unable to access company intranet - urgent fix needed,Network,Low
+1729,Unable to access company intranet - in production,Network,High
+1413,Monitor display flickering - urgent fix needed,Hardware,Low
+2517,Cannot access shared folder - urgent fix needed,Access,Medium
+2650,Email access denied - reported by team,Access,Critical
+1826,Packet loss on network - for user,Network,High
+1617,Network adapter not detected - reported by team,Network,Medium
+1115,Printer not connecting to network - in production,Hardware,Critical
+1418,Battery not charging - for user,Hardware,High
+2626,Password reset required - reported by team,Access,Critical
+3451,Book a meeting room on the calendar,Database,Medium
+1090,Screen resolution issue - for user,Hardware,Critical
+3083,Data synchronization error - customer complaint,Database,High
+1754,Internet connection drops frequently - in production,Network,Critical
+2631,Cannot login to system - in production,Access,Critical
+1012,Screen resolution issue - urgent fix needed,Hardware,Critical
+1285,Fan making loud noise - urgent fix needed,Hardware,Medium
+2067,Runtime error in application - for user,Software,Critical
+2192,Application crashes on startup - urgent fix needed,Software,Low
+2441,Database authentication failed - in production,Access,High
+3338,Database replication lagging - reported by team,Database,High
+3410,Parking lot full this morning,Network,Low
+3258,Database lock detected - for user,Database,High
+2569,Two-factor authentication not working - in production,Access,Low
+3144,Query performance very slow - in production,Database,Medium
+2688,Database authentication failed - in production,Access,Medium
+1852,Network timeout errors - customer complaint,Network,Medium
+1896,DNS resolution failing - in production,Network,Low
+1497,Packet loss on network - reported by team,Network,High
+2783,Password reset required - in production,Access,Medium
+1336,Laptop not turning on - customer complaint,Hardware,Medium
+1516,WiFi keeps disconnecting - for user,Network,Low
+2349,Application freezing randomly - reported by team,Software,Critical
+2016,Software installation failed - for user,Software,Critical
+3432,Inventory audit starting tomorrow,Access,Medium
+2782,Session timeout issue - customer complaint,Access,Low
+2786,Session timeout issue - reported by team,Access,High
+3071,Query execution failed - urgent fix needed,Database,Low
+1357,Printer not connecting to network - in production,Hardware,High
+3379,Meeting scheduled for 3 PM tomorrow,Access,Critical
+2313,Update failed to install - reported by team,Software,High
+2636,Permission denied error - in production,Access,Critical
+1551,Packet loss on network - urgent fix needed,Network,Low
+2228,Plugin compatibility issue - urgent fix needed,Software,Medium
+3231,Database replication lagging - customer complaint,Database,Low
+1958,Plugin compatibility issue - for user,Software,Medium
+2774,Database authentication failed - urgent fix needed,Access,Medium
+2009,Software installation failed - urgent fix needed,Software,Critical
+2093,Version mismatch error - for user,Software,Low
+3225,Index fragmentation high - customer complaint,Database,Low
+1997,Application not responding - urgent fix needed,Software,Medium
+2680,Access rights need update - customer complaint,Access,High
+1154,USB port not working - in production,Hardware,Critical
+1581,WiFi keeps disconnecting - customer complaint,Network,Low
+2471,Password reset required - customer complaint,Access,Medium
+1704,Cannot connect to VPN - customer complaint,Network,Critical
+2213,Runtime error in application - in production,Software,High
+1897,DNS resolution failing - urgent fix needed,Network,Low
+1488,Network adapter not detected - customer complaint,Network,Medium
+1560,Connection refused error - reported by team,Network,Critical
+2142,Plugin compatibility issue - reported by team,Software,Medium
+2120,Software license expired - urgent fix needed,Software,Medium
+1513,Packet loss on network - reported by team,Network,Critical
+1634,Network timeout errors - customer complaint,Network,Critical
+3151,Query execution failed - for user,Database,Medium
+2665,Email access denied - reported by team,Access,Critical
+2013,Update failed to install - urgent fix needed,Software,Medium
+2932,Data synchronization error - customer complaint,Database,Critical
+2151,Application not responding - urgent fix needed,Software,Medium
+3341,Database replication lagging - for user,Database,High
+1117,Laptop not turning on - customer complaint,Hardware,High
+1741,Network adapter not detected - urgent fix needed,Network,Critical
+3305,Connection pool exhausted - customer complaint,Database,Critical
+2975,Data synchronization error - urgent fix needed,Database,Low
+2082,Spftware license expired - for user,Software,Critical
+2811,Cannot access shared folder - customer complaint,Access,Critical
+1831,Packet loss on network - for user,Network,Low
+1120,USB port not working - for user,Hardware,Critical
+1657,Packet loss on network - urgent fix needed,Network,Critical
+3378,Quarterly business review meeting,Database,Critical
+3240,Database lock detected - in production,Database,High
+3445,Coffee machine is broken again,Hardware,Critical
+1636,Cannot connect to VPN - urgent fix needed,Network,Medium
+1370,Screen resolution issue - reported by team,Hardware,Medium
+1269,USB port not working - reported by team,Hardware,High
+1047,Screen resolution issue - reported by team,Hardware,Critical
+1992,Plugin compatibility issue - urgent fix needed,Software,Critical
+1877,WiFi speed very slow - reported by team,Network,High
+1774,Unable to access company intranet - reported by team,Network,High
+2220,Error message on opening file - reported by team,Software,High
+2127,Application not responding - reported by team,Software,High
+1005,Battery not charging - customer complaint,Hardware,Critical
+2596,Cannot login to system - in production,Access,Low
+2078,Update failed to install - customer complaint,Software,High
+1838,DNS resolution failing - customer complaint,Network,Medium
+1682,Unable to access company intranet - urgent fix needed,Network,Medium
+2716,Two-factor authenticatiion not working - urgent fix needed,Access,Medium
+2149,Software installation failed - for user,Software,Low
+1575,Network timeout errors - customer complaint,Network,Critical
+1051,Mouse cursor jumping randomly - customer complaint,Hardware,Critical
+1854,Internet connection drops frequently - for user,Network,Critical
+2983,Index fragmentation high - customer complaint,Database,Medium
+2824,Access rights need update - reported by team,Access,Low
+1834,DNS resolution failing - reported by team,Network,High
+2116,Application freezing randomly - for user,Software,High
+2167,Runtime error in application - for user,Software,Low
+2907,Query performance very slow - customer complaint,Database,Critical
+1972,Software installation failed - in production,Software,Critical
+1400,Battery not charging - for user,Hardware,High
+1020,Mouse cursor jumping randomly - urgent fix needed,Hardware,High
+1685,Unable to access company intranet - for user,Network,Low
+1036,Battery not charging - in production,Hardware,High
+3363,Database connection timeout - reported by team,Database,Critical
+1525,Network adapter not detected - in production,Network,Medium
+1921,Network adapter not detected - urgent fix needed,Network,High
+2842,Permissoon denied error - for user,Access,High
+2891,Cannot login to system - in production,Access,Medium
+1538,WiFi keeps disconnecting - in production,Network,High
+2706,Access rights need update - customer complaint,Access,Low
+3444,Quarterly business review meeting,Software,High
+1246,Monitor display flickering - for user,Hardware,High
+1785,Connection refused error - urgent fix needed,Network,High
+2410,Application not responding - for user,Software,Low
+1155,Screen resolution issue - in production,Hardware,Low
+2687,Two-factor authentication not working - urgent fix needed,Access,Critical
+1626,Network timeout errors - in production,Network,High
+3397,Annual company picnic this Friday,Software,Medium
+2347,Software installation failed - reported by team,Software,Medium
+1570,Internet connection drops frequently - urgent fix needed,Network,Medium
+2759,Cannot access shared folder - reported by team,Access,Medium
+2817,Session timeout issue - customer complaint,Access,Low
+3066,Database lock detected - reported by team,Database,High
+1128,USB port not working - reported by team,Hardware,High
+3480,Lunch menu for next week posted,Hardware,Critical
+3007,Data synchronization error - in production,Database,Medium
+1981,Application crashes on startup - reported by team,Software,Low
+1191,Keyboard keys not responding - for user,Hardware,Critical
+2140,Update failed to install - in production,Software,Low
+1993,Software installation failed - urgent fix needed,Software,High
+1700,Internet connection drops frequently - reported by team,Network,Critical
+1607,WiFi keeps disconnecting - for user,Network,Critical
+1181,Battery not charging - urgent fix needed,Hardware,Low
+1302,Fan making loud noise - for user,Hardware,Low
+2061,Update failed to install - customer complaint,Software,High
+3355,Query execution failed - for user,Database,Low
+3398,Update your emergency contact information,Software,Low
+2070,Runtime error in application - urgent fix needed,Software,High
+3206,Database backup not running - for user,Database,High
+2244,Version mismatch error - reported by team,Software,Medium
+1017,Monitor display flickering - urgent fix needed,Hardware,Low
+3483,New employee orientation next Monday,Database,Low
+1547,WiFi speed very slow - customer complaint,Network,Critical
+1659,WiFi speed very slow - customer complaint,Network,Low
+3252,Connection pool exhausted - customer complaint,Database,Low
+3282,Table corruption detected - reported by team,Database,Medium
+2505,Session timeout issue - in production,Access,Medium
+1960,Runtime error in application - urgent fix needed,Software,Low
+1798,WiFi speed very slow - in production,Network,Medium
+1226,Monitor display flickering - for user,Hardware,Low
+3075,Data synchronization error - for user,Database,Low
+2800,Access rights need update - reported by team,Access,Medium
+3469,Birthday celebration in the break room,Database,Medium
+3086,Database lock detected - customer complaint,Database,Low
+2694,Email access denied - urgent fix needed,Access,High
+2046,Application not responding - for user,Software,High
+1470,Monitor display flickering - customer complaint,Hardware,Low
+1955,Application not responding - urgent fix needed,Software,Medium
+3479,Meeting scheduled for 3 PM tomorrow,Access,Low
+1640,Cannot connect to VPN - urgent fix needed,Network,Medium
+3317,Database lorck detected - in production,Database,Medium
+2219,Runtime error in application - for user,Software,Critical
+2159,Update failed to install - reported by team,Software,High
+2416,Software installation failed - reported by team,Software,Critical
+3261,Connection pool exhausted - for user,Database,Low
+2528,User account locked - in production,Access,High
+3461,New employee orientation next Monday,Hardware,Critical
+2301,Update failed to install - for user,Software,Medium
+3391,Please approve my vacation request,Software,Medium
+2604,Email access denied - in production,Access,Low
+1161,Printerb not connecting to network - reported by team,Hardware,Medium
+2705,Session timeout issue - for user,Access,High
+1957,Application crashes on startup - for user,Software,Critical
+3431,Lunch menu for next week posted,Database,Critical
+1878,Internet connection drops frequently - urgent fix needed,Network,Medium
+2920,Connection pool exhausted - reported by team,Database,Critical
+2885,Permission denied error - urgent fix needed,Access,Critical
+3201,Database backup not running - reported by team,Database,High
+1099,Battery not charging - urgent fix needed,Hardware,Medium
+3361,Query performance very slow - reported by team,Database,Low
+1254,Fan making loud noise - for user,Hardware,High
+1104,Mouse cursor jumping randomly - for user,Hardware,Critical
+2446,Cannot login to system - for user,Access,Low
+2444,Cannot login to system - urgent fix needed,Access,Medium
+2649,Password reset required - in production,Access,High
+1587,Network timeout errors - in production,Network,Low
+1628,Network timeout errors - reported by team,Network,Medium
+2697,Cannot access shared folder - reported by team,Access,Critical
+3102,Connection pool exhausted - in production,Database,Low
+3200,Data synchronization error - in production,Database,Medium
+1404,Laptop not turning on - customer complaint,Hardware,Low
+2155,Update failed to install - urgent fix needed,Software,Medium
+3256,Database replication lagging - reported by team,Database,Critical
+2683,User account locked - reported by team,Access,Medium
+3057,Table corruption detected - in production,Database,Low
+3374,Data synchronization error - urgent fix needed,Database,Medium
+1453,Hard drive making strange noise - in production,Hardware,Critical
+2328,Application freezing randomly - reported by team,Software,Medium
+3050,Data synchronization error - for user,Database,Critical
+1881,WiFi speed very slow - reported by team,Network,Low
+3433,Please update your profile picture,Network,Medium
+1624,WiFi keeps disconnecting - reported by team,Network,Critical
+3312,Data synchronization error - in production,Database,Medium
+2788,Access rights need update - in production,Access,Critical
+1263,Monitor display flickering - in production,Hardware,High
+2635,User account locked - in production,Access,Medium
+2439,Password reset required - in production,Access,Low
+3199,Database replication lagging - urgent fix needed,Database,Medium
+2970,Database backup not running - customer complaint,Database,High
+2803,Cannot access shared folder - for user,Access,High
+1641,Cannot connect to VPN - in production,Network,Low
+3459,Employee handbook PDF attached,Software,Medium
+2960,Index fragmentation high - reported by team,Database,Low
+1489,Network adapter not detected - cusomer complaint,Network,High
+2844,Permission denied error - reported by team,Access,Critical
+2735,Database authentication failed - in production,Access,Medium
+1147,Screen resolution issue - customer complaint,Hardware,Medium
+2535,Database authentication failed - customer complaint,Access,Critical
+2987,Data synchronization error - in production,Database,High
+2370,Update failed to install - urgent fix needed,Software,High
+3448,Coffee machine is broken again,Network,High
+1660,DNS resolution failing - customer complaint,Network,Low
+2795,Two-factor authentication not working - reported by team,Access,Medium
+1187,Laptop not turning on - customer complaint,Hardware,High
+2148,Application freezing randomly - urgent fix needed,Software,Low
+1609,DNS resolution failing - in production,Network,Critical
+3192,Table corruption detected - urgent fix needed,Database,High
+2931,Table corruption detected - for user,Database,High
+1198,USB port not working - for user,Hardware,High
+1294,Screen resolution issue - in production,Hardware,Critical
+1767,Connection refused error - customer complaint,Network,Medium
+1401,Laptop not turning on - customer complaint,Hardware,Medium
+1123,Battery not charging - reported by team,Hardware,Critical
+1203,Screen resolution issue - reported by team,Hardware,Critical
+1836,Cannot connect to VPN - in production,Network,Critical
+3295,Database backup not running - for user,Database,Medium
+2440,Cannot access shared folder - in production,Access,Medium
+2734,Password reset required - in production,Access,Low
+2696,Database authentication failed - in production,Access,Critical
+2708,Cannot access shared folder - reported by team,Access,Low
+3429,Book a meeting room on the calendar,Access,Critical
+2154,Application freezing randomly - reported by team,Software,Critical
+2662,Email access denied - in production,Access,Critical
+2760,Cannot access shared folder - customer complaint,Access,Critical
+1855,Internet connection drops frequently - for user,Network,Low
+2590,Password reset required - for user,Access,Low
+3268,Table corruption detected - urgent fix needed,Database,Critical
+1642,DNS resolution failing - for user,Network,High
+1002,Battery not charging - customer complaint,Hardware,Low
+3161,Database connection timeout - urgent fix needed,Database,Medium
+1699,Network adapter not detected - reported by team,Network,Medium
+2637,Cannot access shared folder - customer complaint,Access,Low
+2292,Plugin compatibility issue - urgent fix needed,Software,Critical
+3383,Submit your expense report by Friday,Network,Critical
+2521,Email access denied - urgent fix needed,Access,Critical
+2854,Two-factor authentication not working - customer complaint,Access,Medium
+2137,Application crashes on startup - for user,Software,High
+3416,Book a meeting room on the calendar,Database,High
+2632,Cannot access shared folder - in production,Access,Medium
+2999,Database lock detected - in production,Database,Medium
+1664,WiFi keeps disconnecting - for user,Network,Critical
+1684,Unable to access company intranet - customer complaint,Network,High
+2258,Application crashes on startup - urgent fix needed,Software,High
+1318,Mouse cursor jumping randomly - for user,Hardware,Medium
+1649,Unable to access company intranet - reported by team,Network,Critical
+2435,Email access denied - customer complaint,Access,Critical
+2480,Cannot access shared folder - in production,Access,Critical
+1710,WiFi keeps disconnecting - in production,Network,Critical
+2283,Plugin compatibility issue - for user,Software,Critical
+2769,User account locked - urgent fix needed,Access,Medium
+1973,Software installation failed - customer complaint,Software,Medium
+2307,Update failed to install - in production,Software,Low
+2401,Update failed to install - for user,Software,Low
+2409,Software license expired - for user,Software,Low
+3238,Query performance very slow - reported by team,Database,Medium
+2497,Database authentication failed - urgent fix needed,Access,High
+3039,Connection pool exhausted - urgent fix needed,Database,Medium
+2530,User account locked - urgent fix needed,Access,Critical
+2664,Password reset erquired - customer complaint,Access,Low
+2355,Application freezing randomly - in production,Software,Low
+3439,Book a meeting room on the calendar,Access,Low
+3455,Please sign the NDA document,Network,Medium
+2644,Password reset required - urgent fix needed,Access,Low
+2052,Plugin compatibility issue - in production,Software,High
+1796,Cannot connect to VPN - urgent fix needed,Network,Medium
+2598,Database authentication failed - urgent fix needed,Access,Low
+2820,Session timeout issue - reported by team,Access,High
+2723,Session timeout issue - for user,Access,Medium
+2184,Application not responding - in production,Software,Low
+2060,Error message on opening file - for user,Software,Critical
+1541,WiFi keeps disconnecting - for user,Network,Low
+2679,Cannot login to system - for user,Access,Critical
+3407,Meeting scheduled for 3 PM tomorrow,Network,Critical
+2758,Access rights need update - customer complaint,Access,Low
+2924,Database replication lagging - in production,Database,Low
+1096,Hard drive making strange noise - for user,Hardware,Critical
+2021,Version mismatch error - for user,Software,High
+1564,DNS resolution failing - in production,Network,Medium
+1864,Unable to access company intranet - urgent fix needed,Network,Low
+2485,User account locked - in production,Access,Low
+2882,Two-factor authentication not working - reported by team,Access,Medium
+2039,Error messageo n opening file - reported by team,Software,Medium
+1207,Screen resolution issue - reported by team,Hardware,Low
+1393,Mouse cursor jumping randomly - customer complaint,Hardware,Critical
+1871,Network timeout errors - in production,Network,Critical
+1398,Fan making loud noise - for user,Hardware,Critical
+3401,Please sign the NDA document,Software,Medium
+2029,Application freezing randomly - in production,Software,Low
+2486,Access rights need update - urgent fix needed,Access,Low
+1961,Software installation failed - urgent fix needed,Software,Medium
+2571,Access rights need update - urgent fix needed,Access,Critical
+2896,Session timeout issue - urgent fix needed,Access,Critical
+3147,Table corruption detected - customer complaint,Database,Low
+1805,Connection refused error - urgent fix needed,Network,Medium
+2752,Two-factor authentication not working - for user,Access,Critical
+1503,WiFi speed very slow - in production,Network,Medium
+1780,DNS resolution failing - urgent fix needed,Network,Medium
+2864,Email access denied - reported by team,Access,Medium
+1201,Keyboard keys not responding - customer complaint,Hardware,High
+3183,Database replication lagging - customer complaint,Database,High
+3089,Query performance very slow - in production,Database,Low
+3279,Database lock detected - in production,Database,Medium
+2797,Two-factor authentication not working - urgent fix needed,Access,Low
+1379,Battery not charging - for user,Hardware,Medium
+3337,Database connection timeout - in production,Database,Medium
+1419,Printer not connecting to network - in production,Hardware,High
+2699,Database authentication failed - for user,Access,Low
+1392,Keyboard keys not responding - for user,Hardware,High
+2523,Email access denied - reported by team,Access,Low
+2163,Application freezing randomly - reported by team,Software,Low
+2496,Session timeout issue - for user,Access,Low
+3028,Database backup not running - urgent fix needed,Database,Low
+2153,Application crashes on startup - for user,Software,Medium
+2368,Update failed to install - for user,Software,Medium
+1065,Hard drive making strange noise - for user,Hardware,Critical
+3063,Data synchronization error - customer complaint,Database,Low
+2181,Error message on opening file - customer complaint,Software,Low
+1493,Network timeout errors - in production,Network,Medium
+1380,USB port not working - for user,Hardware,Medium
+3236,Database backup not running - urgent fix needed,Database,Medium
+1764,Connection refused error - urgent fix needed,Network,Medium
+3265,Database lock detected - in production,Database,Medium
+1792,Network timeout errors - for user,Network,High
+2077,Application freezing randomly - customer complaint,Software,Critical
+1879,Network timeout errors - for user,Network,Low
+1338,Fan making loud noise - reported by team,Hardware,Critical
+3344,Table corruption detected - for user,Database,Low
+2017,Application crashes on startup - customer complaint,Software,Critical
+2276,Plugin compatibility issue - in production,Software,Medium
+1456,Screen resolution issue - customer complaint,Hardware,Low
+1816,Unable to access company intranet - reported by team,Network,Critical
+3318,Database lock detected - customer complaint,Database,Low
+1996,Version mismatch error - customer complaint,Software,Critical
+2982,Query performance very slow - in production,Database,Low
+1202,Monitor display flickering - urgent fix needed,Hardware,Low
+1162,Hard drive making strange noise - customer complaint,Hardware,Critical
+2580,Password reset required - urgent fix needed,Access,High
+1703,Network timeout errors - for user,Network,Low
+2501,Password reset required - in production,Access,Medium
+2130,Version mismatch error - urgent fix needed,Software,High
+2022,Version mismatch error - customer complaint,Software,Low
+2586,Permission denied error - in production,Access,Medium
+2956,Index fragmentation high - reported by team,Database,Critical
+3254,Query execution failed - reported by team,Database,Critical
+1035,Fan making loud noise - for user,Hardware,Critical
+1776,Network adapter not detected - in production,Network,Medium
+2479,Email access denied - in production,Access,Critical
+2391,Error message on opening file - reported by team,Software,Low
+3140,Index fragmentation high - in production,Database,Low
+2364,Version mismatch error - in production,Software,Medium
+3042,Database connection timeout - reported by team,Database,Low
+1242,Laptop not turning on - reported by team,Hardware,Critical
+3062,Index fragmentation high - customer complaint,Database,Critical
+3364,Connection pool exhausted - in production,Database,Medium
+1601,Network timeout errors - urgent fix needed,Network,Low
+3436,New parking passes issued,Database,Critical
+2298,Runtime error in application - reported by team,Software,Low
+3215,Database lock detected - reported by team,Database,High
+3069,Database connection timeout - urgent fix needed,Database,High
+1647,WiFi speed very slow - for user,Network,High
+2529,User account locked - customer complaint,Access,Low
+2268,Application freezing randomly - reported by team,Software,Low
+2900,User account locked - urgent fix needed,Access,Medium
+1563,Packet loss on network - customer complaint,Network,High
+1190,Mouse cursor jumping randomly - for user,Hardware,Medium
+2807,Password reset required - reported by team,Access,Low
+1976,Application freezing randomly - reported by team,Software,Low
+3048,Query performance very slow - customer complaint,Database,Low
+2083,Version mismatch error - urgent fix needed,Software,Medium
+1475,Monitor display flickering - customer coplaint,Hardware,Critical
+1748,Unable to access company intranet - urgent fix needed,Network,Medium
+3301,Query execution failed - in production,Database,Medium
+1022,Battery not charging - in production,Hardware,Medium
+1460,Keyboard keys not responding - customer complaint,Hardware,Critical
+2185,Version mismatch error - customer complaint,Software,Critical
+3325,Data synchronization error - customer complaint,Database,Medium
+1956,Version mismatch error - reported by team,Software,High
+2216,Update failed to install - for user,Software,Low
+3434,Urgent: Update your antivirus software,Software,Medium
+2516,User account locked - reported by team,Access,Critical
+3392,New gym membership available,Database,Medium
+1770,Packet loss on network - for user,Network,High
+2686,Permission denied error - customer complaint,Access,Medium
+1131,Mouse cursor jumping randomly - for user,Hardware,Critical
+3136,Data synchronization error - in production,Database,Critical
+2483,Cannot login to system - for user,Access,Low
+1331,Monitor display flickering - customer complaint,Hardware,Critical
+2239,Update failed to install - urgent fix needed,Software,Critical
+1467,Mouse cursor jumping randomly - in production,Hardware,High
+3170,Database lock detected - customer complaint,Database,Medium
+2639,User account locked - customer complaint,Access,Low
+2096,Plugin compatibility issue - reported by team,Software,High
+2131,Update failed to install - in production,Software,Low
+2295,Version mismatch error - urgent fix needed,Software,Critical
+1861,DNS resolution failing - for user,Network,High
