@@ -5,6 +5,7 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import joblib
 from contextlib import asynccontextmanager
+from preprocess import clean_text
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 
@@ -64,7 +65,8 @@ def predict_ticket(ticket: TicketIn):
     if cat_model is None or pri_model is None:
         raise HTTPException(status_code=503, detail="Models not loaded")
     
-    cleaned_issue = [ticket.issue]
+    cleaned_issue = [clean_text(ticket.issue)]  
+
     X_cat = cat_vectorizer.transform(cleaned_issue)
     X_pri = pri_vectorizer.transform(cleaned_issue)
     
